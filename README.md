@@ -11,6 +11,6 @@
 - Linux
 </br>
 </br>
-Контакты: 
-Tелеграм: https://t.me/artem_owiii
+Контакты:</br>
+Tелеграм: https://t.me/artem_owiii</br>
 Эл. почта: owiii.dev@gmail.com
