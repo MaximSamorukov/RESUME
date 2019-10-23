@@ -8,6 +8,7 @@
 - JavaScript, jQuery, Vue.js, Vuex, Vue CLI
 - Laravel, Blade, Handlebars, VK.Api
 - Git, Bitbucket, БЭМ
+- Photoshop, Figma
 - Linux
 </br>
 </br>
