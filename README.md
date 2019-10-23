@@ -9,3 +9,8 @@
 - Laravel, Blade, Handlebars, VK.Api
 - Git, Bitbucket, БЭМ
 - Linux
+</br>
+</br>
+Контакты: 
+Tелеграм: https://t.me/artem_owiii
+Эл. почта: owiii.dev@gmail.com
