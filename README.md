@@ -3,9 +3,12 @@
 
 Приложения на чистом JavaScript: <a href="https://owiii.github.io/kinopoisk-mini/index.html">Мини-кинопоиск</a>, <a href="https://owiii.github.io/handlebars/">VK api</a></br>
 Проекты на jQuery: <a href="https://owiii.github.io/Balance/">Balance</a></br>
-Приложения на Vue.js: <a href="https://owiii.github.io/make-text/">MakeText</a>, <a href="https://owiii.github.io/Second-app-VueJS/">Валидация формы</a>, <a href="https://github.com/OWIII/iDex-Desktop">iDex Desktop</a></br></br>
+Приложения на Vue.js: <a href="https://owiii.github.io/make-text/">MakeText</a>, <a href="https://owiii.github.io/Second-app-VueJS/">Валидация формы</a>, <a href="https://github.com/OWIII/iDex-Desktop">iDex Desktop</a>, <a href="https://github.com/OWIII/kraken-api">Kraken API</a></br></br>
+
+
+
   Мой стек: 
-- HTML, CSS, SCSS/LESS, Bootstrap 4 
+- HTML, CSS, SCSS/LESS, Bootstrap 4, Bootstrap-Vue 
 - Gulp, Webpack
 - JavaScript, jQuery, Vue.js, Vuex, Vue CLI
 - Laravel, Blade, Handlebars, VK.Api
