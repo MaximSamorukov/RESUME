@@ -8,13 +8,13 @@ SPA на vanilla JavaScript: <a href="https://github.com/OWIII/FitnessHouse">Fit
 
 
   Мой стек: 
+- JavaScript(ES5, ES6), jQuery, Vue.js, Vuex, Vue CLI
 - HTML, CSS, SCSS/LESS, Bootstrap 4, Bootstrap-Vue 
 - Gulp, Webpack
-- JavaScript, jQuery, Vue.js, Vuex, Vue CLI
 - Laravel, Blade, Handlebars, VK.Api
-- Git, Bitbucket, БЭМ
+- Github, Gitlab, Bitbucket, БЭМ
 - Photoshop, Figma
-- Linux
+- Wondows, Linux
 </br>
 </br>
 <b>Контакты:</b></br>
