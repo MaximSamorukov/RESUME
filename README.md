@@ -14,7 +14,7 @@ SPA на vanilla JavaScript: <a href="https://github.com/OWIII/FitnessHouse">Fit
 - Laravel, Blade, Handlebars, VK.Api
 - Github, Gitlab, Bitbucket, БЭМ
 - Photoshop, Figma
-- Wondows, Linux
+- Windows, Linux
 </br>
 </br>
 <b>Контакты:</b></br>
