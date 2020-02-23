@@ -16,7 +16,7 @@
  ### Мои некоммерческие проекты:
 
 <div class="w3-responsive">
-<font size="2" face="Courier New" >
+<font size="12px">
 <table style="font-size: 80%" width="100%" class="w3-table-all notranslate" id="myTable">
 <thead>
 <tr class="w3-white">
