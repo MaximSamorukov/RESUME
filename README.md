@@ -25,72 +25,72 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><a href="https://owiii.github.io/alltarget-site/">Alltarget(главная)</a></td>
+<td><a href="https://owiii.github.io/alltarget-site/">Alltarget(главная)</a></td>
 <td>HTML, CSS, JQuery, JavaScript, Gulp</td>
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
-<td align="center"><a href="https://owiii.github.io/alltarget-site/articles.html">Alltarget(все статьи)</a></td>
+<td><a href="https://owiii.github.io/alltarget-site/articles.html">Alltarget(все статьи)</a></td>
 <td>HTML, CSS, JQuery, JavaScript, Gulp</td>
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
-<td align="center"><a href="https://owiii.github.io/alltarget-site/article-item.html">Alltarget(статья)</a></td>
+<td><a href="https://owiii.github.io/alltarget-site/article-item.html">Alltarget(статья)</a></td>
 <td>HTML, CSS, JQuery, JavaScript, Gulp</td>
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
-<td align="center"><a href="https://owiii.github.io/eLama-build/">eLama</a></td>
+<td><a href="https://owiii.github.io/eLama-build/">eLama</a></td>
 <td>HTML, CSS, JavaScript, Gulp</td>
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
-<td align="center"><a href="https://owiii.github.io/Balance/">Рекламный блок Balance</a></td>
+<td><a href="https://owiii.github.io/Balance/">Рекламный блок Balance</a></td>
 <td>HTML, CSS, JQuery, JavaScript, Gulp</td>
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
-<td align="center"><a href="https://owiii.github.io/Sigma-build/">Sigma</a></td>
+<td><a href="https://owiii.github.io/Sigma-build/">Sigma</a></td>
 <td>HTML, CSS, JavaScript, Gulp</td>
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/OWIII/FitnessHouse">FitnessHouse</a></td>
+<td><a href="https://github.com/OWIII/FitnessHouse">FitnessHouse</a></td>
 <td>HTML, CSS, JavaScript, Ajax, Gulp</td>
 <td align="center">Приложение SPA</td>
 </tr>
 <tr>
-<td align="center"><a href="https://owiii.github.io/kinopoisk-mini/index.html">Мини-кинопоиск</a></td>
+<td><a href="https://owiii.github.io/kinopoisk-mini/index.html">Мини-кинопоиск</a></td>
 <td>HTML, CSS, Bootstrap 4, JavaScript, Movie DB API</td>
 <td align="center">Приложение SPA</td>
 </tr>
 <tr>
-<td align="center"><a href="https://owiii.github.io/handlebars/">VK api</a></td>
+<td><a href="https://owiii.github.io/handlebars/">VK api</a></td>
 <td>HTML, Handlebars, CSS, JavaScript, VK.API</td>
 <td align="center">Приложение SPA</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/OWIII/kraken-api">Котировки валют</a></td>
+<td><a href="https://github.com/OWIII/kraken-api">Котировки валют</a></td>
 <td>HTML, CSS, Vue.js, Vue-Bootstrap, Vue CLI, Kraken.API </td>
 <td align="center">Приложение SPA</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/OWIII/iDex-Desktop">iDex Desktop</a></td>
+<td><a href="https://github.com/OWIII/iDex-Desktop">iDex Desktop</a></td>
 <td>HTML, CSS, Vue.js, Vue CLI </td>
 <td align="center">Вёрстка(компонентная)</td>
 </tr>
 <tr>
-<td align="center"><a href="https://owiii.github.io/Second-app-VueJS/">Валидация формы</a></td>
+<td><a href="https://owiii.github.io/Second-app-VueJS/">Валидация формы</a></td>
 <td>HTML, CSS, Vue.js</td>
 <td align="center">Приложение SPA</td>
 </tr>
 <tr>
-<td align="center"><a href="https://owiii.github.io/make-text/">MakeText</a></td>
+<td><a href="https://owiii.github.io/make-text/">MakeText</a></td>
 <td>HTML, CSS, Vue.js, Vue CLI</td>
 <td align="center">Приложение SPA</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/OWIII/Modern-Tunes">Modern-Tunes</a></td>
+<td><a href="https://github.com/OWIII/Modern-Tunes">Modern-Tunes</a></td>
 <td>HTML, CSS, ExtJs</td>
 <td align="center">Приложение SPA</td>
 </tr>
