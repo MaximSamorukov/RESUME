@@ -28,7 +28,7 @@
 <tbody>
 <tr>
 <td><a href="https://owiii.github.io/alltarget-site/">Alltarget(главная)</a></td>
-<td>HTML5, CSS3, JQuery, JavaScript, Gulp</td>
+<td style = "fontSize:5;">HTML5, CSS3, JQuery, JavaScript, Gulp</td>
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
