@@ -12,7 +12,7 @@
 - Photoshop, Figma
 - Windows, Linux
 
-#### Вёрстка
+#### Вёрстка:
 
 - <a href="https://owiii.github.io/alltarget-site/">Главная</a>
 - <a href="https://owiii.github.io/alltarget-site/articles.html">Статьи</a>
@@ -21,12 +21,12 @@
 - <a href="https://owiii.github.io/Balance/">Balance</a>
 - <a href="https://owiii.github.io/Sigma-build/">Sigma</a>
 
-#### Vanilla JavaScript
+#### Vanilla JavaScript:
 - <a href="https://github.com/OWIII/FitnessHouse">FitnessHouse</a>
 - <a href="https://owiii.github.io/kinopoisk-mini/index.html">Мини-кинопоиск</a>
 - <a href="https://owiii.github.io/handlebars/">VK api</a>
 
-#### Vue.js
+#### Vue.js:
 - <a href="https://github.com/OWIII/kraken-api">Котировки с Kraken API</a>
 - <a href="https://github.com/OWIII/iDex-Desktop">iDex Desktop</a>
 - <a href="https://owiii.github.io/Second-app-VueJS/">Валидация формы</a>
