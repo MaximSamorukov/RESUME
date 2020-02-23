@@ -16,8 +16,5 @@ https://tele.click/artem_owiii
 - Github, Gitlab, Bitbucket, БЭМ
 - Photoshop, Figma
 - Windows, Linux
-</br>
-</br>
-<b>Контакты:</b></br>
-Tелеграм: https://t.me/artem_owiii</br>
-Эл. почта: owiii.dev@gmail.com
+
+
