@@ -61,6 +61,11 @@
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
+<td><a href="https://github.com/OWIII/iDex-Desktop">iDex Desktop</a></td>
+<td>HTML, CSS, Vue.js, Vue CLI </td>
+<td align="center">Вёрстка(компонентная)</td>
+</tr>
+<tr>
 <td><a href="https://github.com/OWIII/FitnessHouse">FitnessHouse</a></td>
 <td>HTML, CSS, JavaScript, Ajax, Gulp</td>
 <td align="center">Приложение SPA</td>
@@ -94,11 +99,6 @@
 <td><a href="https://github.com/OWIII/kraken-api">Котировки валют</a></td>
 <td>HTML, CSS, Vue.js, Vue-Bootstrap, Vue CLI, Kraken.API </td>
 <td align="center">Приложение SPA</td>
-</tr>
-<tr>
-<td><a href="https://github.com/OWIII/iDex-Desktop">iDex Desktop</a></td>
-<td>HTML, CSS, Vue.js, Vue CLI </td>
-<td align="center">Вёрстка(компонентная)</td>
 </tr>
 <tr>
 <td><a href="https://owiii.github.io/Second-app-VueJS/">Валидация формы</a></td>
