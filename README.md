@@ -67,6 +67,11 @@
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
+<td><a href="https://owiii.github.io/Next-Absolute/">Next Absolute</a></td>
+<td>HTML5, CSS3, JQuery</td>
+<td align="center">Вёрстка</td>
+</tr>
+<tr>
 <td><a href="https://owiii.github.io/Web-Development/">Web Development</a></td>
 <td>HTML5, CSS3, Bootstrap 4, JQuery, JavaScript</td>
 <td align="center">Вёрстка</td>
