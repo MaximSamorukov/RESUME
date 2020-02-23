@@ -1,6 +1,6 @@
 # Лусников Артём &middot; [![](https://img.shields.io/badge/resume-hh-red)](https://spb.hh.ru/resume/1786c1f3ff071f524b0039ed1f506e61747256)  [![](https://img.shields.io/badge/blog-pikabu-5dbe57)](https://pikabu.ru/@OWIII)  [![](https://img.shields.io/badge/-instagram-orange)](https://www.instagram.com/owiii.dev)  [![](https://img.shields.io/badge/-twitter-00acee)](https://twitter.com/owiii_dev)  [![](https://img.shields.io/badge/-telegram-0088cc)](https://tele.click/artem_owiii)  [![](https://img.shields.io/badge/-codewars-%23952c1f)](https://www.codewars.com/users/OWIII)  [![](https://img.shields.io/badge/-codepen-%23000000)](https://codepen.io/OWIII/pens/public)
 ```
-Человек должен быть таким, чтобы люди, наблюдая за ним, не находили себе оправданий(с).
+Человек должен быть таким, чтобы люди, наблюдая за ним, не находили себе оправданий.
 ```
 <b>Мое портфолио веб-разработчика:</b></br></br>
 Моя верстка: <a href="https://owiii.github.io/alltarget-site/">Главная</a> -> <a href="https://owiii.github.io/alltarget-site/articles.html">Статьи</a> -> </a><a href="https://owiii.github.io/alltarget-site/article-item.html">Одна статья</a>, </a><a href="https://owiii.github.io/eLama-build/">eLama</a></br>
