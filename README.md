@@ -32,7 +32,7 @@
 </tr>
 <tr>
 <td><a href="https://owiii.github.io/alltarget-site/articles.html">Alltarget(все статьи)</a></td>
-<td>HTML5, CSS3, JQuery, JavaScript, Gulp</td>
+<td font-size="12px">HTML5, CSS3, JQuery, JavaScript, Gulp</td>
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
