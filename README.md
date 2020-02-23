@@ -2,7 +2,7 @@
 ```
 Человек должен быть таким, чтобы люди, наблюдая за ним, не находили себе оправданий.
 ```
-  ### Мой актуальный стек: 
+  ### Актуальный стек: 
 - JavaScript(ES5, ES6), jQuery, Vue.js, Vuex, Vue CLI
 - HTML, CSS, SCSS/LESS, Bootstrap 4, Bootstrap-Vue, БЭМ
 - Gulp, Webpack
