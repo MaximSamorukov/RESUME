@@ -72,6 +72,11 @@
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
+<td><a href="https://owiii.github.io/Travelly/">Simple travelly</a></td>
+<td>HTML5, CSS3</td>
+<td align="center">Вёрстка</td>
+</tr>
+<tr>
 <td><a href="https://owiii.github.io/Web-Development/">Web Development</a></td>
 <td>HTML5, CSS3, Bootstrap 4, JQuery, JavaScript</td>
 <td align="center">Вёрстка</td>
