@@ -16,7 +16,7 @@
  ### Мои некоммерческие проекты:
 
 <div class="w3-responsive">
-<table style="font-size: 12px"width="100%" class="w3-table-all notranslate" id="myTable">
+<table style="font-size: 80%" width="100%" class="w3-table-all notranslate" id="myTable">
 <thead>
 <tr class="w3-white">
 <th width="40%">Проект</th>
@@ -53,6 +53,11 @@
 <tr>
 <td><a href="https://owiii.github.io/Sigma-build/">Sigma</a></td>
 <td>HTML5, CSS3, JavaScript, Gulp</td>
+<td align="center">Вёрстка</td>
+</tr>
+<tr>
+<td><a href="https://owiii.github.io/TinyOne/">TinyOne</a></td>
+<td>HTML5, CSS3, Animate.css</td>
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
