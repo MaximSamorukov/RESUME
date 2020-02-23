@@ -56,6 +56,11 @@
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
+<td><a href="https://owiii.github.io/Test-Bquadro/">BQuadro(Футер)</a></td>
+<td>HTML, CSS/td>
+<td align="center">Вёрстка</td>
+</tr>
+<tr>
 <td><a href="https://github.com/OWIII/FitnessHouse">FitnessHouse</a></td>
 <td>HTML, CSS, JavaScript, Ajax, Gulp</td>
 <td align="center">Приложение SPA</td>
