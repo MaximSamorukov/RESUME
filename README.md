@@ -4,7 +4,7 @@
 ```
   ### Актуальный стек: 
 - JavaScript(ES5, ES6), jQuery, Vue.js, Vuex, Vue CLI
-- HTML, CSS, SCSS/LESS, Bootstrap 4, Bootstrap-Vue, БЭМ
+- HTML5, CSS3, SCSS/LESS, Bootstrap 4, Bootstrap-Vue, БЭМ
 - Gulp, Webpack
 - Laravel, Blade, Handlebars
 - VK.Api, Kraken.Api
@@ -27,92 +27,97 @@
 <tbody>
 <tr>
 <td><a href="https://owiii.github.io/alltarget-site/">Alltarget(главная)</a></td>
-<td>HTML, CSS, JQuery, JavaScript, Gulp</td>
+<td>HTML5, CSS3, JQuery, JavaScript, Gulp</td>
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
 <td><a href="https://owiii.github.io/alltarget-site/articles.html">Alltarget(все статьи)</a></td>
-<td>HTML, CSS, JQuery, JavaScript, Gulp</td>
+<td>HTML5, CSS3, JQuery, JavaScript, Gulp</td>
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
 <td><a href="https://owiii.github.io/alltarget-site/article-item.html">Alltarget(статья)</a></td>
-<td>HTML, CSS, JQuery, JavaScript, Gulp</td>
+<td>HTML5, CSS3, JQuery, JavaScript, Gulp</td>
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
 <td><a href="https://owiii.github.io/eLama-build/">eLama</a></td>
-<td>HTML, CSS, JavaScript, Gulp</td>
+<td>HTML5, CSS3, JavaScript, Gulp</td>
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
 <td><a href="https://owiii.github.io/Balance/">Рекламный блок Balance</a></td>
-<td>HTML, CSS, JQuery, JavaScript, Gulp</td>
+<td>HTML5, CSS3, JQuery, JavaScript, Gulp</td>
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
 <td><a href="https://owiii.github.io/Sigma-build/">Sigma</a></td>
-<td>HTML, CSS, JavaScript, Gulp</td>
+<td>HTML5, CSS3, JavaScript, Gulp</td>
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
 <td><a href="https://owiii.github.io/Test-Bquadro/">BQuadro(Футер)</a></td>
-<td>HTML, CSS</td>
+<td>HTML5, CSS3</td>
+<td align="center">Вёрстка</td>
+</tr>
+<tr>
+<td><a href="https://owiii.github.io/Web-Development/">Web Development</a></td>
+<td>HTML5, CSS3, Bootstrap 4, JQuery, JavaScript</td>
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
 <td><a href="https://github.com/OWIII/iDex-Desktop">iDex Desktop</a></td>
-<td>HTML, CSS, Vue.js, Vue CLI </td>
+<td>HTML5, CSS3, Vue.js, Vue CLI </td>
 <td align="center">Вёрстка(компонентная)</td>
 </tr>
 <tr>
 <td><a href="https://github.com/OWIII/FitnessHouse">FitnessHouse</a></td>
-<td>HTML, CSS, JavaScript, Ajax, Gulp</td>
+<td>HTML5, CSS3, JavaScript, Ajax, Gulp</td>
 <td align="center">Приложение SPA</td>
 </tr>
 <tr>
 <td><a href="https://owiii.github.io/kinopoisk-mini/index.html">Мини-кинопоиск</a></td>
-<td>HTML, CSS, Bootstrap 4, JavaScript, Movie DB API</td>
+<td>HTML5, CSS3, Bootstrap 4, JavaScript, Movie DB API</td>
 <td align="center">Приложение SPA</td>
 </tr>
 <tr>
 <td><a href="https://owiii.github.io/handlebars/">VK api</a></td>
-<td>HTML, Handlebars, CSS, JavaScript, VK.API</td>
+<td>HTML5, Handlebars, CSS3, JavaScript, VK.API</td>
 <td align="center">Приложение SPA</td>
 </tr>
 <tr>
 <td><a href="https://github.com/OWIII/Game-Life">Game Life(Клеточный автомат)</a></td>
-<td>HTML, CSS, JavaScript, Canvas</td>
+<td>HTML5, CSS3, JavaScript, Canvas</td>
 <td align="center">JavaScript</td>
 </tr>
 <tr>
 <td><a href="https://owiii.github.io/PhotoEditor/index.html">Мини-фоторедактор</a></td>
-<td>HTML, CSS, JavaScript, Canvas</td>
+<td>HTML5, CSS3, JavaScript, Canvas</td>
 <td align="center">JavaScript</td>
 </tr>
 <tr>
 <td><a href="https://github.com/OWIII/T-Systems-Test">T-systems test</a></td>
-<td>HTML, CSS, JavaScript</td>
+<td>HTML5, CSS3, JavaScript</td>
 <td align="center">Вёрстка, игра на JavaScript</td>
 </tr>
 <tr>
 <td><a href="https://github.com/OWIII/kraken-api">Котировки валют</a></td>
-<td>HTML, CSS, Vue.js, Vue-Bootstrap, Vue CLI, Kraken.API </td>
+<td>HTML5, CSS3, Vue.js, Vue-Bootstrap, Vue CLI, Kraken.API </td>
 <td align="center">Приложение SPA</td>
 </tr>
 <tr>
 <td><a href="https://owiii.github.io/Second-app-VueJS/">Валидация формы</a></td>
-<td>HTML, CSS, Vue.js</td>
+<td>HTML5, CSS3, Vue.js</td>
 <td align="center">Приложение SPA</td>
 </tr>
 <tr>
 <td><a href="https://owiii.github.io/make-text/">MakeText</a></td>
-<td>HTML, CSS, Vue.js, Vue CLI</td>
+<td>HTML5, CSS3, Vue.js, Vue CLI</td>
 <td align="center">Приложение SPA</td>
 </tr>
 <tr>
 <td><a href="https://github.com/OWIII/Modern-Tunes">Modern-Tunes</a></td>
-<td>HTML, CSS, ExtJs</td>
+<td>HTML5, CSS3, ExtJs 7.1</td>
 <td align="center">Приложение SPA</td>
 </tr>
 </tbody>
