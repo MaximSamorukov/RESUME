@@ -12,15 +12,16 @@
 - Photoshop, Figma
 - Windows, Linux
 
-##### Верстка
+#### Верстка
 
-<p><a href="https://owiii.github.io/alltarget-site/">Главная</a></p>
-<p><a href="https://owiii.github.io/alltarget-site/articles.html">Статьи</a></p>
-<p><a href="https://owiii.github.io/alltarget-site/article-item.html">Одна статья</a></p>
-<p><a href="https://owiii.github.io/eLama-build/">eLama</a></p>
-<p><a href="https://owiii.github.io/Balance/">Balance</a></p>
-<p><a href="https://owiii.github.io/Sigma-build/">Sigma</a></p>
-##### Ванильный JavaScript
+- <a href="https://owiii.github.io/alltarget-site/">Главная</a>
+- <a href="https://owiii.github.io/alltarget-site/articles.html">Статьи</a>
+- <a href="https://owiii.github.io/alltarget-site/article-item.html">Одна статья</a>
+- <a href="https://owiii.github.io/eLama-build/">eLama</a>
+- <a href="https://owiii.github.io/Balance/">Balance</a>
+- <a href="https://owiii.github.io/Sigma-build/">Sigma</a>
+
+#### Ванильный JavaScript
 
 Тестовое приложение на ExtJs: <a href="https://github.com/OWIII/Modern-Tunes">Modern-Tunes</a></br></br>
 SPA на vanilla JavaScript: <a href="https://github.com/OWIII/FitnessHouse">FitnessHouse</a></br>
