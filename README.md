@@ -2,16 +2,16 @@
 ```
 Человек должен быть таким, чтобы люди, наблюдая за ним, не находили себе оправданий.
 ```
-  Мой стек: 
+  ### Мой актуальный стек: 
 - JavaScript(ES5, ES6), jQuery, Vue.js, Vuex, Vue CLI
-- HTML, CSS, SCSS/LESS, Bootstrap 4, Bootstrap-Vue 
+- HTML, CSS, SCSS/LESS, Bootstrap 4, Bootstrap-Vue, БЭМ
 - Gulp, Webpack
-- Laravel, Blade, Handlebars, VK.Api
-- Github, Gitlab, Bitbucket, БЭМ
+- Laravel, Blade, Handlebars
+- VK.Api, Kraken.Api
+- Github, Gitlab, Bitbucket
 - Photoshop, Figma
 - Windows, Linux
 
-<b>Мое портфолио веб-разработчика:</b></br></br>
 Моя верстка: <a href="https://owiii.github.io/alltarget-site/">Главная</a> -> <a href="https://owiii.github.io/alltarget-site/articles.html">Статьи</a> -> </a><a href="https://owiii.github.io/alltarget-site/article-item.html">Одна статья</a>, </a><a href="https://owiii.github.io/eLama-build/">eLama</a></br>
 Сложная верстка: (Манипуляции с DOM + Анимация): <a href="https://owiii.github.io/Balance/">Balance</a>, <a href="https://owiii.github.io/Sigma-build/">Sigma</a></br></br>
 Тестовое приложение на ExtJs: <a href="https://github.com/OWIII/Modern-Tunes">Modern-Tunes</a></br></br>
