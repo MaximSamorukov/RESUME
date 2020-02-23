@@ -77,7 +77,12 @@
 </tr>
 <tr>
 <td><a href="https://github.com/OWIII/Game-Life">Game Life(Клеточный автомат)</a></td>
-<td>HTML, CSS, JavaScript</td>
+<td>HTML, CSS, JavaScript, Canvas</td>
+<td align="center">JavaScript</td>
+</tr>
+<tr>
+<td><a href="https://owiii.github.io/PhotoEditor/index.html">Мини-фоторедактор</a></td>
+<td>HTML, CSS, JavaScript, Canvas</td>
 <td align="center">JavaScript</td>
 </tr>
 <tr>
