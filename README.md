@@ -40,9 +40,9 @@
 <table width="100%" class="w3-table-all notranslate" id="myTable">
 <thead>
 <tr class="w3-white">
-<th width="40%">Class <i class="fa fa-sort" style="font-size:13px;"></i></th>
-<th width="60%">Описание</th>
-<th>Category <i class="fa fa-sort" style="font-size:13px;"></i></th>
+<th width="40%">Проект</th>
+<th width="60%">Технологии</th>
+<th>Категория</th>
 </tr>
 </thead>
 <tbody>
