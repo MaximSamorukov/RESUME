@@ -49,7 +49,6 @@
 <tr>
 <td><a href="https://owiii.github.io/alltarget-site/">Alltarget(главная)</a></td>
 <td>HTML, CSS, JQuery, Javascript</td>
-<td>[![](https://img.shields.io/badge/-%D0%92%D0%81%D0%A0%D0%A1%D0%A2%D0%9A%D0%90-yellow)]</td>
+<td>Вёрстка</td>
 </tr>
 </div>
-
