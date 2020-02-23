@@ -15,5 +15,4 @@ SPA на vanilla JavaScript: <a href="https://github.com/OWIII/FitnessHouse">Fit
 - Github, Gitlab, Bitbucket, БЭМ
 - Photoshop, Figma
 - Windows, Linux
-https://www.codewars.com/users/OWIII
 
