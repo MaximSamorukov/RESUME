@@ -76,6 +76,11 @@
 <td align="center">Приложение SPA</td>
 </tr>
 <tr>
+<td><a href="https://github.com/OWIII/Game-Life">Game Life(Клеточный автомат)</a></td>
+<td>HTML, CSS, JavaScript</td>
+<td align="center">JavaScript</td>
+</tr>
+<tr>
 <td><a href="https://github.com/OWIII/kraken-api">Котировки валют</a></td>
 <td>HTML, CSS, Vue.js, Vue-Bootstrap, Vue CLI, Kraken.API </td>
 <td align="center">Приложение SPA</td>
