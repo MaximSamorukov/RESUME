@@ -12,7 +12,7 @@
 - Photoshop, Figma
 - Windows, Linux
 
-#### Верстка
+#### Вёрстка
 
 - <a href="https://owiii.github.io/alltarget-site/">Главная</a>
 - <a href="https://owiii.github.io/alltarget-site/articles.html">Статьи</a>
