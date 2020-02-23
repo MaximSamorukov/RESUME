@@ -57,7 +57,7 @@
 </tr>
 <tr>
 <td><a href="https://owiii.github.io/Test-Bquadro/">BQuadro(Футер)</a></td>
-<td>HTML, CSS/td>
+<td>HTML, CSS</td>
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
