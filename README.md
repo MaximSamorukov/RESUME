@@ -3,7 +3,7 @@
 Человек должен быть таким, чтобы люди, наблюдая за ним, не находили себе оправданий.
 ```
   ### Актуальный стек: 
-- JavaScript(ES5, ES6), jQuery, Vue.js, Vuex, Vue CLI
+- JavaScript(ES5, ES6), jQuery, Vue.js, Vue CLI
 - HTML5, CSS3, SCSS/LESS, Bootstrap 4, Bootstrap-Vue, БЭМ
 - Gulp, Webpack
 - Laravel, Blade, Handlebars
