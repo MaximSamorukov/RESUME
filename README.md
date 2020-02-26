@@ -7,7 +7,7 @@
 - HTML5, CSS3, SCSS/LESS, Bootstrap 4, Bootstrap-Vue, БЭМ
 - Gulp, Webpack
 - Laravel, Blade, Handlebars
-- VK.Api, Kraken.Api
+- VK.Api, Kraken.Api, MovieDB.Api
 - Github, Gitlab, Bitbucket
 - Photoshop, Figma
 - Windows, Linux
