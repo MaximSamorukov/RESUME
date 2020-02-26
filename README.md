@@ -58,7 +58,7 @@
 </tr>
 <tr>
 <td><a href="https://owiii.github.io/TinyOne/">TinyOne</a></td>
-<td>HTML5, CSS3, Animate.css</td>
+<td>HTML5, CSS3, Bootstrap 4, Animate.css</td>
 <td align="center">Вёрстка</td>
 </tr>
 <tr>
