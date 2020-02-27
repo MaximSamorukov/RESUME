@@ -5,6 +5,7 @@
   ### Актуальный стек: 
 - JavaScript(ES5, ES6), jQuery, Vue.js, Vue CLI
 - HTML5, CSS3, SCSS/LESS, Bootstrap 4, Bootstrap-Vue, БЭМ
+- Lodash
 - Gulp, Webpack
 - Laravel, Blade, Handlebars
 - VK.Api, Kraken.Api, MovieDB.Api
