@@ -117,6 +117,11 @@
 <td align="center">Вёрстка, игра на JavaScript</td>
 </tr>
 <tr>
+<td><a href="https://github.com/OWIII/Refactoring">Refactoring</a></td>
+<td>JavaScript</td>
+<td align="center">Refactoring JavaScript</td>
+</tr>
+<tr>
 <td><a href="https://github.com/OWIII/kraken-api">Котировки валют</a></td>
 <td>HTML5, CSS3, Vue.js, Vue-Bootstrap, Vue CLI, Kraken.API </td>
 <td align="center">Приложение SPA</td>
