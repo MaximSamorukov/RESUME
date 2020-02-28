@@ -28,6 +28,11 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="https://github.com/OWIII/CalculatorOfSite">Калькулятор верстки сайта</a></td>
+<td>HTML5, CSS3, JavaScript(ES6)</td>
+<td align="center">Вёрстка, JavaScript</td>
+</tr>
+<tr>
 <td><a href="https://owiii.github.io/alltarget-site/">Alltarget(главная)</a></td>
 <td>HTML5, CSS3, JQuery, JavaScript, Gulp</td>
 <td align="center">Вёрстка</td>
