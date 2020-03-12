@@ -30,7 +30,7 @@
 <tr>
 <td><a href="https://codepen.io/OWIII/full/gOpvQRg">Flick off mobile menu</a></td>
 <td>Pug, SCSS, JavaScript(ES6)</td>
-<td align="center">Codepen</td>
+<td align="center">Вёрстка, JavaScript</td>
 </tr>
 <tr>
 <td><a href="https://github.com/OWIII/CalculatorOfSite">Калькулятор верстки сайта</a></td>
