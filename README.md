@@ -7,7 +7,7 @@
   ![](https://img.shields.io/badge/JavaScript(ES6+)-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%207%2F10-green)
   ![](https://img.shields.io/badge/Vue.js,%20Vue%20CLI,%20Vuex,%20VueRouter-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%206%2F10-green)
   ![](https://img.shields.io/badge/jQuery-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%204%2F10-green)</br></br>
-  ![](https://img.shields.io/badge/-%D0%92%D0%95%D0%A0%D0%A1%D0%A2%D0%9A%D0%90-%23DF0101)</br>
+  ![](https://img.shields.io/badge/-%D0%92%D0%81%D0%A0%D0%A1%D0%A2%D0%9A%D0%90-%23DF0101)</br>
   ![](https://img.shields.io/badge/HTML5,%20CSS3,%20SCSS,%20БЭМ-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%209%2F10-green)
   ![](https://img.shields.io/badge/Pug,%20Blade,%20Handlebars-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%204%2F10-green)
   ![](https://img.shields.io/badge/Bootstrap%204,%20BootstrapVue-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%205%2F10-green)</br></br>
