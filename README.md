@@ -16,7 +16,12 @@
   ![](https://img.shields.io/badge/SVG%20animations-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%203%2F10-green)</br>
   ![](https://img.shields.io/badge/WebGL,%20Three.js-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%202%2F10-green)</br></br>
   ![](https://img.shields.io/badge/-%D0%98%D0%9D%D0%A1%D0%A2%D0%A0%D0%A3%D0%9C%D0%95%D0%9D%D0%A2%D0%90%D0%A0%D0%98%D0%99-%23FF8000)</br>
-  ![](https://img.shields.io/badge/-Gulp%2C%20Webpack%2C%20Parcel-%23848484)</br>
+  ![](https://img.shields.io/badge/-Gulp%2C%20Webpack%2C%20Parcel-%23585858)</br>
+  ![](https://img.shields.io/badge/-Github,%20Gitlab,%20Bitbucket-%23585858)</br>
+  ![](https://img.shields.io/badge/-Photoshop,%20Figma,%20Avocode-%23585858)</br>
+  ![](https://img.shields.io/badge/-SublimeText,%20VSCode,%20WebStorm-%23585858)</br>
+  ![](https://img.shields.io/badge/-Windows,%20Linux-%23585858)</br>
+  
 - Lodash
 - Gulp, Webpack
 - VK.Api, Kraken.Api, MovieDB.Api
