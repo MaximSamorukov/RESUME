@@ -22,14 +22,8 @@
   ![](https://img.shields.io/badge/-SublimeText,%20VSCode,%20WebStorm-%23585858)</br>
   ![](https://img.shields.io/badge/-Windows,%20Linux-%23585858)</br></br>
   ![](https://img.shields.io/badge/-%D0%A1%20%D0%A7%D0%95%D0%9C%20%D0%A0%D0%90%D0%91%D0%9E%D0%A2%D0%90%D0%9B%20%D0%95%D0%A9%D0%95-%23DF0101)</br>
-  
-- Lodash
-- Gulp, Webpack
-- VK.Api, Kraken.Api, MovieDB.Api
-- Github, Gitlab, Bitbucket  
-- Photoshop, Figma, Avocode
-- Windows, Linux
-</br></br>
+  ![](https://img.shields.io/badge/-Lodash,%20Laravel-%23585858)</br>
+  ![](https://img.shields.io/badge/-VK.Api,%20Kraken.Api,%20MovieDB.Api-%23585858)</br>
 
  ### Мои некоммерческие проекты:
 
