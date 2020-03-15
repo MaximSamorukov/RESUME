@@ -3,7 +3,7 @@
 Человек должен быть таким, чтобы люди, наблюдая за ним, не находили себе оправданий.
 ```
   ### Стек технологий:
-  ![](https://img.shields.io/badge/-%D0%9F%D0%A0%D0%9E%D0%93%D0%A0%D0%90%D0%9C%D0%9C%D0%98%D0%A0%D0%9E%D0%92%D0%90%D0%9D%D0%98%D0%95-%23DF0101)</br>
+  ##### Программирование
   ![](https://img.shields.io/badge/JavaScript(ES6+)-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%207%2F10-green)
   ![](https://img.shields.io/badge/Vue.js,%20Vue%20CLI,%20Vuex,%20VueRouter-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%206%2F10-green)
   ![](https://img.shields.io/badge/jQuery-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%204%2F10-green)</br></br>
@@ -26,7 +26,7 @@
   ![](https://img.shields.io/badge/-VK.Api,%20Kraken.Api,%20MovieDB.Api-%23585858)
 
  ### Мои некоммерческие проекты:
-
+ ![](https://img.shields.io/badge/-%D0%9F%D0%A0%D0%9E%D0%93%D0%A0%D0%90%D0%9C%D0%9C%D0%98%D0%A0%D0%9E%D0%92%D0%90%D0%9D%D0%98%D0%95-%23DF0101)</br>
 <div class="w3-responsive">
 <font size="12px">
 <table style="font-size: 80%" width="100%" class="w3-table-all notranslate" id="myTable">
