@@ -28,8 +28,8 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://codepen.io/OWIII/full/rNVvBNL">Tree.js Color Sphere</a></td>
-<td>Pug, WebGL, Tree.js, dat.GUI</td>
+<td><a href="https://codepen.io/OWIII/full/rNVvBNL">Three.js Color Sphere</a></td>
+<td>Pug, WebGL, Three.js, dat.GUI</td>
 <td align="center">WebGL</td>
 </tr>
 <tr>
