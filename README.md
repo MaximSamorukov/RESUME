@@ -2,14 +2,24 @@
 ```
 Человек должен быть таким, чтобы люди, наблюдая за ним, не находили себе оправданий.
 ```
-  ### Актуальный стек: 
-- JavaScript(ES5, ES6), jQuery, Vue.js, Vue CLI
-- HTML5, CSS3, SCSS/LESS, Bootstrap 4, Bootstrap-Vue, БЭМ
+  ### Стек технологий:
+  ![](https://img.shields.io/badge/-%D0%9F%D0%A0%D0%9E%D0%93%D0%A0%D0%90%D0%9C%D0%9C%D0%98%D0%A0%D0%9E%D0%92%D0%90%D0%9D%D0%98%D0%95-%23DF0101)</br>
+  ![](https://img.shields.io/badge/JavaScript(ES6+)-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%207%2F10-green)</br>
+  ![](https://img.shields.io/badge/Vue.js,%20Vue%20CLI,%20Vuex,%20VueRouter-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%206%2F10-green)</br>
+  ![](https://img.shields.io/badge/jQuery-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%204%2F10-green)</br></br>
+  ![](https://img.shields.io/badge/-%D0%92%D0%95%D0%A0%D0%A1%D0%A2%D0%9A%D0%90-%230000FF)</br>
+  ![](https://img.shields.io/badge/HTML5,%20CSS3,%20SCSS,%20БЭМ-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%209%2F10-green)</br>
+  ![](https://img.shields.io/badge/Pug,%20Blade,%20Handlebars-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%204%2F10-green)</br>
+  ![](https://img.shields.io/badge/Bootstrap%204,%20BootstrapVue-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%205%2F10-green)</br></br>
+  ![](https://img.shields.io/badge/-%D0%90%D0%9D%D0%98%D0%9C%D0%90%D0%A6%D0%98%D0%98,%203D-%23FE2EF7)</br>
+  ![](https://img.shields.io/badge/CSS%20animations-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%206%2F10-green)</br>
+  ![](https://img.shields.io/badge/SVG%20animations-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%203%2F10-green)</br>
+  ![](https://img.shields.io/badge/WebGL,%20Three.js-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%202%2F10-green)</br>
+  
 - Lodash
 - Gulp, Webpack
-- Laravel, Blade, Handlebars
 - VK.Api, Kraken.Api, MovieDB.Api
-- Github, Gitlab, Bitbucket
+- Github, Gitlab, Bitbucket  
 - Photoshop, Figma, Avocode
 - Windows, Linux
 </br></br>
