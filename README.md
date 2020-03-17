@@ -39,6 +39,11 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="https://codepen.io/OWIII/full/yLNjPbP">Custom checkbox#2</a></td>
+<td>Pug, SCSS</td>
+<td align="center">Вёрстка</td>
+</tr>
+<tr>
 <td><a href="https://codepen.io/OWIII/full/rNVvBNL">Three.js Color Sphere</a></td>
 <td>Pug, WebGL, Three.js, dat.GUI</td>
 <td align="center">WebGL</td>
