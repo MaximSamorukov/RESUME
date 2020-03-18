@@ -4,7 +4,7 @@
 ```
   ### Стек технологий:
   - JavaScript(ES6+), jQuery, Vue CLI, Vue.js, Vuex, Vue-router
-  - HTML5, Pug, Blade, Hadlebars, CSS3, SCSS/LESS, PostCSS, Bootstrap 4
+  - HTML5, Pug, Blade, Hadlebars, CSS3, SCSS/LESS, PostCSS, Bootstrap 4, Vue-Bootstrap
   - Lodash
   - VK.api, KRAKEN.api, MoveDB.api
   - Git, Github, Gitlab, Bitbucket
