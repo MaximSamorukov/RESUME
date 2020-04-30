@@ -25,6 +25,11 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="https://github.com/OWIII/Project_Euler">Project Euler</a></td>
+<td>JS</td>
+<td align="center">Pure JS</td>
+</tr>
+<tr>
 <td><a href="https://codepen.io/OWIII/full/yLNjPbP">Custom checkbox#2</a></td>
 <td>Pug, SCSS</td>
 <td align="center">Вёрстка</td>
