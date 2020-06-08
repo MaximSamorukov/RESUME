@@ -2,6 +2,15 @@
 ```
 Человек должен быть таким, чтобы люди, наблюдая за ним, не находили себе оправданий.
 ```
+  ### Стек технологий(актуальность на 2020 год):
+  - TypeScript, JavaScript(ES Next)
+  - React, React-Redux, React-Router, Redux-Act, Redux-Saga, React-Hooks
+  - Lodash, Axios
+  - Тестирование: Mocha/Chai
+  - Git, Github, Gitlab,
+  - Webstorm, VSCode
+  - Windows
+  
   ### Стек технологий(актуальность на 2019 год):
   - JavaScript(ES6+), jQuery, Vue CLI, Vue.js, Vuex, Vue-router
   - HTML5, Pug, Blade, Hadlebars, CSS3, SCSS/LESS, PostCSS, Bootstrap 4, Vue-Bootstrap
