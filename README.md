@@ -7,9 +7,8 @@
   - React, React-Redux, React-Router, Redux-Act, Redux-Saga, React-Hooks
   - Lodash, Axios
   - Тестирование: Mocha/Chai
-  - Git, Github, Gitlab,
+  - Git
   - Webstorm, VSCode
-  - Windows
   
   ### Стек технологий(актуальность на 2019 год):
   - JavaScript(ES6+), jQuery, Vue CLI, Vue.js, Vuex, Vue-router
