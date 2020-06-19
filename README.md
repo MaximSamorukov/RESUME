@@ -1,4 +1,4 @@
-# Лусников Артём &middot; [![](https://img.shields.io/badge/resume-hh-red)](https://spb.hh.ru/resume/1786c1f3ff071f524b0039ed1f506e61747256)[![](https://img.shields.io/badge/-telegram-0088cc)](https://tele.click/artem_owiii)  [![](https://img.shields.io/badge/-codewars-%23952c1f)](https://www.codewars.com/users/OWIII)  [![](https://img.shields.io/badge/-codepen-%23000000)](https://codepen.io/OWIII/pens/public)
+# Лусников Артём &middot; [![](https://img.shields.io/badge/resume-hh-red)](https://spb.hh.ru/resume/1786c1f3ff071f524b0039ed1f506e61747256)  [![](https://img.shields.io/badge/-telegram-0088cc)](https://tele.click/artem_owiii)  [![](https://img.shields.io/badge/-codewars-%23952c1f)](https://www.codewars.com/users/OWIII)  [![](https://img.shields.io/badge/-codepen-%23000000)](https://codepen.io/OWIII/pens/public)
 ```
 Человек должен быть таким, чтобы люди, наблюдая за ним, не находили себе оправданий.
 ```
