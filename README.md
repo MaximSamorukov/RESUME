@@ -6,7 +6,7 @@
   - TypeScript, JavaScript(ES Next)
   - React, React-Redux, React-Router, Redux-Act, Redux-Saga, React-Hooks
   - Lodash, Axios
-  - Тестирование: Mocha/Chai
+  - Тестирование: Mocha/Chai, Postman
   - Git
   - Webstorm, VSCode
   
