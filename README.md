@@ -33,6 +33,11 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="https://github.com/OWIII/CSSSR-TEST">CSSSR Middle Test Task</a></td>
+<td>React, Redux, Context</td>
+<td align="center">React</td>
+</tr>
+<tr>
 <td><a href="https://github.com/OWIII/Project_Euler">Project Euler</a></td>
 <td>JS</td>
 <td align="center">Pure JS</td>
