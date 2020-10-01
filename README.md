@@ -3,8 +3,9 @@
 Человек должен быть таким, чтобы люди, наблюдая за ним, не находили себе оправданий.
 ```
   ### Стек технологий(актуальность на 2020 год):
-  - TypeScript, JavaScript(ES Next)
+  - TypeScript, JavaScript(ES Next), Next.js
   - React, React-Redux, React-Router, Redux-Act, Redux-Saga, React-Hooks
+  - Material UI, CSS in JS
   - Lodash, Axios
   - Тестирование: Mocha/Chai, Postman
   - Git
