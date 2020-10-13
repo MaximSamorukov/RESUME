@@ -24,15 +24,15 @@
 - Reverse Int;
 - Morse-decoder;
 - Expression-calculator;
-- CLI tool Caesar cipher
-- Express Rest Service
+- CLI tool Caesar cipher;
+- Express Rest Service;
 
 
 ### Обучение, курсы
-- Hexlet Фронтенд-программист
-- Hexlet Node.js-программист
-- HTML academy
-- RS School
+- Hexlet Фронтенд-программист;
+- Hexlet Node.js-программист;
+- HTML academy;
+- RS School;
 
 ### Иностранный язык
 - английский, Intermediate;
