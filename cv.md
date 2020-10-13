@@ -28,12 +28,14 @@
 - Express Rest Service
 
 
-### Обучениеб курсы
+### Обучение, курсы
 - Hexlet Фронтенд-программист
 - Hexlet Node.js-программист
 - HTML academy
 - RS School
 
+### Иностранный язык
+- английский, Intermediate;
   <table style="font-size: 80%" width="100%">
     <tr>
       <th></th>
