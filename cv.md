@@ -1,6 +1,7 @@
 # Саморуков Максим Львович
-Web developer, веб разработчик.
-Москва
+Web developer, веб разработчик,
+e-mail: maxim.samorukov@gmail.com,
+cell: 8-925-026-17-37
 
 ### Образование
 - МГТУ им. Н.Э.Баумана, кафедра Машиностроения;
@@ -13,11 +14,43 @@ Web developer, веб разработчик.
 - Codewars profile
 - LinkedIn profile
 
+### Профили
+<table style="font-size: 80%" width="100%">
+    <tr>
+      <th>Наименование</th>
+      <th>Ссылка</th>
+    </tr>
+    <tr>
+      <td>HH</td>
+      <td>https://hh.ru/resume/5dbce090ff07a13a4f0039ed1f735a674f6363</td>
+    </tr>
+    <tr>
+      <td>Github</td>
+      <td>https://github.com/MaximSamorukov</td>
+    </tr>
+    <tr>
+      <td>Hexlet</td>
+      <td>https://ru.hexlet.io/u/maksim_ralph</td>
+    </tr>
+    <tr>
+      <td>LinkedIn</td>
+      <td>http://linkedin.com/in/maxim-samorukov-a2b10691/</td>
+    </tr>
+    <tr>
+      <td>Codewars</td>
+      <td>https://www.codewars.com/users/Maxim%20Samorukov</td>
+    </tr>
+    <tr>
+      <td>RS School</td>
+      <td>https://rs.school/</td>
+    </tr>
+</table>
+
 ### Стек технологий:
 - HTML, CSS, Sass, Less;
 - JavaScript, Node.js;
 - Express.js, Connect;
-- React, Redux-Redux, React-Router;
+- React, React-Redux, React-Router;
 - Lodash, Axios;
 - Figma, Avocode;
 - Git, ESlint;
@@ -75,36 +108,6 @@ Web developer, веб разработчик.
       </td>
     </tr>
   </table>
-- Hexlet Фронтенд-программист,
-- Hexlet Node.js-программист:
-  - Массивы;
-  - Объекты;
-  - Функции;
-  - Деревья;
-  - ООП;
-  - Архитектура фронтенд приложений;
-  - Протокол HTTP;
-  - Ассинхронное программирование;
-  - DOM Api;
-  - React, Redux;
-  - HTTP Server;
-  - Express.js;
-  - Основы баз данных;
-  - Git;
-  - cli приложение (4 консольных математических игры);
-
-- HTML Academy:
-  - HTML;
-  - CSS;
-
-- RS School JS Frontend 2020:
-  - веб проекты с адаптивным дизайном;
-  - клиентские приложения (калькулятор, виртуальная клавиатура);
-  - SPA (работа со сторонними Api для получения информации; использование local storage);
-
-- RS School NodeJS 2020:
-  - создание cli приложения;
-  - создание веб приложения на базе Express, MongoDB с функциями логирования, обработки ошибок, автоотзации;
 
 ### Иностранный язык
 - английский, Intermediate:
@@ -170,7 +173,7 @@ Web developer, веб разработчик.
     </tr>
     <tr>
       <td rowspan="2">Momentum</td>
-      <td rowspan="2">Momentum - приложение, которое показывает погоду в городе по запросу, цитаты известных людей, время и имя пользователя, его цель на текущий день. Фоновое изображение меняется в зависимости от времени суток. Для хранения данных приложение использует локальное хранилище - local storage. Данные погоды, цитаты на фоне сменяющих друг друга фотографий. Представляемая информация запрашивается из доступных API.  Применяется HTML, CSS, JS.</td>
+      <td rowspan="2">Приложение, показывающее погоду в городе по запросу, цитаты известных людей, текущее время, имя пользователя и его цель на текущий день. Фоновое изображение меняется в зависимости от времени суток. Для хранения данных приложение использует локальное хранилище - local storage. Представляемая информация запрашивается из доступных API.</td>
       <td>https://github.com/rolling-scopes-school/maximsamorukov-JS2020Q3/tree/momentum</td>
     </tr>
         <tr>
@@ -205,31 +208,5 @@ Web developer, веб разработчик.
       <td>Reverse Int</td>
       <td>Функция преобразования чесел, изменение порядка следования цифр на противоположенное.</td>
       <td>https://github.com/MaximSamorukov/reverse-int</td>
-    </tr>
-
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
   </table>
