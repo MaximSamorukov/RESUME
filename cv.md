@@ -74,10 +74,10 @@ Web developer, веб разработчик.
     <tr>
       <td rowspan="2">Web-dev</td>
       <td rowspan="2">Description</td>
-      <td>
       <td>https://maximsamorukov.github.io/webdev/</td>
+    </tr>
+    <tr>
       <td>https://github.com/MaximSamorukov/webdev</td>
-      </td>
     </tr>
     <tr>
       <td>Calculator</td>
