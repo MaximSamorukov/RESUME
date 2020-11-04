@@ -59,85 +59,123 @@ Web developer, веб разработчик.
   - курсы Skyeng.
 
 
+- ;
+- ;
+- ;
+- ;
+- ;
+- ;
+- ;
+- ;
+- ;
+- ;
+- ;
+- ;
+- ;
+- ;
+
 ### Мои некоммерческие проекты:
   <table style="font-size: 80%" width="100%">
     <tr>
       <th>Наименование</th>
       <th>Описание, ключевые технологии</th>
+      <th>Ссылка</th>
     </tr>
     <tr>
-      <td>Проект 1. Хекслет</td>
+      <td>Хекслет-1 Brain games</td>
       <td></td>
+      <td>https://github.com/MaximSamorukov/frontend-project-lvl1</td>
     </tr>
     <tr>
       <td>Web-dev</td>
       <td></td>
+      <td>
+      <tr><td>https://maximsamorukov.github.io/webdev/</td></tr>
+      <tr><td>https://github.com/MaximSamorukov/webdev</td></tr>
+      </td>
     </tr>
     <tr>
       <td>Calculator</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Virtual Keyboard</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Express Rest Service</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>CLI tool Caesar cipher</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Shelter</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Singolo</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Human Readable Number</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Towel Sort</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Brackets</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Reverse Int</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Morse-decoder</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Expression-calculator</td>
       <td></td>
-    </tr>
-    <tr>
-      <td></td>
       <td></td>
     </tr>
     <tr>
       <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
