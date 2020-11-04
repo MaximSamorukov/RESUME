@@ -1,140 +1,144 @@
 # Саморуков Максим Львович
-
+Web developer, веб разработчик.
+Москва
+### Бейджи
+- HH, resume
+- Github profile
+- Hexlet profile
+- RS School profile
+- Codewars profile
+- LinkedIn profile
 
 ### Стек технологий:
-- JavaScript (ES 2017);
-- Node.js, Express.js, Connect;
+- HTML, CSS, Sass, Less;
+- JavaScript, Node.js;
+- Express.js, Connect;
 - React, Redux-Redux, React-Router;
 - Lodash, Axios;
-- HTML, CSS, Sass, Less;
 - Figma, Avocode;
-- Git;
-- VSCode;
-
-### Мои некоммерческие проекты:
-- Проект 1. Хекслет;
-- Singolo;
-- Shelter;
-- Web-dev;
-- Calculator;
-- Virtual Keyboard;
-- Human Readable Number;
-- Towel Sort;
-- Brackets;
-- Reverse Int;
-- Morse-decoder;
-- Expression-calculator;
-- CLI tool Caesar cipher;
-- Express Rest Service;
-
+- Git, ESlint;
+- VSCode, npm, Kubuntu;
 
 ### Обучение, курсы
-- Hexlet Фронтенд-программист;
-- Hexlet Node.js-программист;
-- HTML academy;
-- RS School;
+- Hexlet Фронтенд-программист,
+- Hexlet Node.js-программист:
+  - Массивы;
+  - Объекты;
+  - Функции;
+  - Деревья;
+  - ООП;
+  - Архитектура фронтенд приложений;
+  - Протокол HTTP;
+  - Ассинхронное программирование;
+  - DOM Api;
+  - React, Redux;
+  - HTTP Server;
+  - Express.js;
+  - Основы баз данных;
+  - Git;
+  - cli приложение (4 консольных математических игры);
+
+- HTML Academy:
+  - HTML;
+  - CSS;
+
+- RS School JS Frontend 2020:
+  - веб проекты с адаптивным дизайном;
+  - клиентские приложения (калькулятор, виртуальная клавиатура);
+  - SPA (работа со сторонними Api для получения информации; использование local storage);
+
+- RS School NodeJS 2020:
+  - создание cli приложения;
+  - создание веб приложения на базе Express, MongoDB с функциями логирования, обработки ошибок, автоотзации;
 
 ### Иностранный язык
-- английский, Intermediate;
+- английский, Intermediate:
+  - школа с углубенным изучением английского языка;
+  - самостоятельная подготовка к экзаменам TOEFL, GRE;
+  - оффлайн курсы;
+  - курсы Skyeng.
+
+
+### Мои некоммерческие проекты:
   <table style="font-size: 80%" width="100%">
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <th>Наименование</th>
+      <th>Описание, ключевые технологии</th>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <td>Проект 1. Хекслет</td>
+      <td></td>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <td>Web-dev</td>
+      <td></td>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <td>Calculator</td>
+      <td></td>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <td>Virtual Keyboard</td>
+      <td></td>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <td>Express Rest Service</td>
+      <td></td>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <td>CLI tool Caesar cipher</td>
+      <td></td>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <td>Shelter</td>
+      <td></td>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <td>Singolo</td>
+      <td></td>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <td>Human Readable Number</td>
+      <td></td>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <td>Towel Sort</td>
+      <td></td>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <td>Brackets</td>
+      <td></td>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <td>Reverse Int</td>
+      <td></td>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <td>Morse-decoder</td>
+      <td></td>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <td>Expression-calculator</td>
+      <td></td>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <td></td>
+      <td></td>
     </tr>
   </table>
