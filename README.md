@@ -2,6 +2,7 @@
 ### web developer, веб разработчик
 e-mail: maxim.samorukov@gmail.com,
 cell: 8-925-026-17-37
+https://maximsamorukov.github.io/RESUME/
 
 ### Образование
 - МГТУ им. Н.Э.Баумана, кафедра Машиностроения;
