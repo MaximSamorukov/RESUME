@@ -22,7 +22,7 @@ cell: 8-925-026-17-37
 
 <img src="https://img.shields.io/static/v1?label=Codewars&message=Profile&logo=codewars&labelColor=#AD2C27&color=succes&style=flat-square&link=https://www.codewars.com/users/Maxim%20Samorukov&link=https://www.codewars.com/users/Maxim%20Samorukov">
 
-<img src="https://img.shields.io/static/v1?label=LinkedIn&message=Profile&logo=linkedin&labelColor=#0077B5&color=succes&style=flat-square&link=https://www.codewars.com/users/Maxim%20Samorukov&link=https://www.codewars.com/users/Maxim%20Samorukov">
+<img src="https://img.shields.io/static/v1?label=LinkedIn&message=Profile&logo=linkedin&labelColor=#0077B5&color=lightgrey&style=flat-square&link=https://www.codewars.com/users/Maxim%20Samorukov&link=https://www.codewars.com/users/Maxim%20Samorukov">
 
 ### Профили
 <table style="font-size: 80%" width="100%">
