@@ -66,20 +66,20 @@ cell: 8-925-026-17-37
     <tr>
       <td>Hexlet, Фронтенд-программист</td>
       <td rowspan="2">
-        - Массивы;
-        - Объекты;
-        - Функции;
-        - Деревья;
-        - ООП;
-        - Архитектура фронтенд приложений;
-        - Протокол HTTP;
-        - Ассинхронное программирование;
-        - DOM Api;
-        - React, Redux;
-        - HTTP Server;
-        - Express.js;
-        - Основы баз данных;
-        - Git;
+         Массивы,
+         Объекты,
+         Функции,
+         Деревья,
+         ООП,
+         Архитектура фронтенд приложений,
+         Протокол HTTP,
+         Ассинхронное программирование,
+         DOM Api,
+         React, Redux,
+         HTTP Server,
+         Express.js,
+         Основы баз данных,
+         Git,
       </td>
     </tr>
     <tr>
@@ -131,7 +131,7 @@ cell: 8-925-026-17-37
     </tr>
     <tr>
       <td rowspan="3">Фильтр авиа билетов (тестовое задание)</td>
-      <td rowspan="3">HTML, CSS, JS, React</td>
+      <td rowspan="3">HTML, CSS, JS, React.</td>
       <td>https://github.com/MaximSamorukov/avia-sales-front-end</td>
     </tr>
     <tr>
@@ -142,7 +142,7 @@ cell: 8-925-026-17-37
     </tr>
     <tr>
       <td rowspan="2">Web-dev</td>
-      <td rowspan="2">веб страница</td>
+      <td rowspan="2">Веб страница (верстка).</td>
       <td>https://maximsamorukov.github.io/webdev/</td>
     </tr>
     <tr>
