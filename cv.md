@@ -1,5 +1,5 @@
 # Саморуков Максим Львович
-Web developer, веб разработчик,
+### Web developer, веб разработчик
 e-mail: maxim.samorukov@gmail.com,
 cell: 8-925-026-17-37
 
