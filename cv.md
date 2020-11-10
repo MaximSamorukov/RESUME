@@ -22,7 +22,9 @@ cell: 8-925-026-17-37
 
 https://img.shields.io/static/v1?label=HH&message=Resume&color=red&style=flat-square&link=https://hh.ru/resume/5dbce090ff07a13a4f0039ed1f735a674f6363&link=https://hh.ru/resume/5dbce090ff07a13a4f0039ed1f735a674f6363)
 
-[http://rt1h.2.vu/maximsamorukov]
+
+
+[![](https://img.shields.io/static/v1?label=HH&message=Resume&color=red&style=flat-square)](https://hh.ru/resume/5dbce090ff07a13a4f0039ed1f735a674f6363)
 
 ### Стек технологий
 - HTML, CSS, Sass, Less;
