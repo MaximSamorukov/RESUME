@@ -11,17 +11,19 @@
 
 }
 .table-1, .table-2 {
-   width: 85vh;
+   width: 600px;
+   min-width: 600px;
+   max-width: 600px;
 }
 tr {
     background-color: rgb(239, 247, 244);
 }
 th {
     padding: 10px 40px;
-    border-top: 1px solid;
-    border-right: 1px solid; 
-    border-left: 1px solid; 
-    border-bottom: 1px solid; 
+    border: 1px solid, black;
+    /* border-right: 1px solid, black; 
+    border-left: 1px solid, black; 
+    border-bottom: 1px solid, black;  */
     font-size: 0.9em;
 
 }
@@ -34,5 +36,8 @@ td {
     padding: 10px;
     font-size: 14px;
     text-align: left;
-    border: 1px solid #000;
+    border: 1px solid, black;
+    /* border-right: 1px solid, black; 
+    border-left: 1px solid, black; 
+    border-bottom: 1px solid, black; */
 }
