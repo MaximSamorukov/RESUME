@@ -6,6 +6,7 @@ cell: 8-925-026-17-37
 ### Образование
 - МГТУ им. Н.Э.Баумана, кафедра Машиностроения;
 
+### Профили
 
 <span>
 <img src="https://img.shields.io/static/v1?label=HH&message=Resume&color=red&style=flat-square&link=https://hh.ru/resume/5dbce090ff07a13a4f0039ed1f735a674f6363&link=https://hh.ru/resume/5dbce090ff07a13a4f0039ed1f735a674f6363">  
@@ -18,38 +19,6 @@ cell: 8-925-026-17-37
 
 <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Profile&logo=linkedin&color=blueviolet&style=flat-square&link=https://www.linkedin.com/in/maxim-samorukov-a2b10691/&link=https://www.linkedin.com/in/maxim-samorukov-a2b10691/">
 </span>
-
-### Профили
-<table style="font-size: 80%" width="100%">
-    <tr>
-      <th>Наименование</th>
-      <th>Ссылка</th>
-    </tr>
-    <tr>
-      <td>HH</td>
-      <td>https://hh.ru/resume/5dbce090ff07a13a4f0039ed1f735a674f6363</td>
-    </tr>
-    <tr>
-      <td>Github</td>
-      <td>https://github.com/MaximSamorukov</td>
-    </tr>
-    <tr>
-      <td>Hexlet</td>
-      <td>https://ru.hexlet.io/u/maksim_ralph</td>
-    </tr>
-    <tr>
-      <td>LinkedIn</td>
-      <td>http://linkedin.com/in/maxim-samorukov-a2b10691/</td>
-    </tr>
-    <tr>
-      <td>Codewars</td>
-      <td>https://www.codewars.com/users/Maxim%20Samorukov</td>
-    </tr>
-    <tr>
-      <td>RS School</td>
-      <td>https://rs.school/</td>
-    </tr>
-</table>
 
 ### Стек технологий:
 - HTML, CSS, Sass, Less;
