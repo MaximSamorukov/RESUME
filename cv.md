@@ -1,5 +1,5 @@
 # Саморуков Максим Львович
-### Web developer, веб разработчик
+### web developer, веб разработчик
 e-mail: maxim.samorukov@gmail.com,
 cell: 8-925-026-17-37
 
@@ -20,7 +20,7 @@ cell: 8-925-026-17-37
 <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Profile&logo=linkedin&color=blueviolet&style=flat-square&link=https://www.linkedin.com/in/maxim-samorukov-a2b10691/&link=https://www.linkedin.com/in/maxim-samorukov-a2b10691/">
 </span>
 
-### Стек технологий:
+### Стек технологий
 - HTML, CSS, Sass, Less;
 - JavaScript, Node.js;
 - Express.js, Connect;
@@ -91,7 +91,7 @@ cell: 8-925-026-17-37
   - курсы Skyeng.
 
 
-### Мои некоммерческие проекты:
+### Мои некоммерческие проекты
   <table style="font-size: 80%" width="100%">
     <tr>
       <th>Наименование</th>
