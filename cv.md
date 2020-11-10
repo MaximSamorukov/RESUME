@@ -9,6 +9,7 @@ cell: 8-925-026-17-37
 ### Профили
 
 <span>
+
 [![](https://img.shields.io/static/v1?label=HH&message=Resume&color=red&style=flat-square)](https://hh.ru/resume/5dbce090ff07a13a4f0039ed1f735a674f6363)
 
 [![](https://img.shields.io/static/v1?label=Github&message=Profile&logo=github&color=success&style=flat-square)](https://github.com/MaximSamorukov)
@@ -18,6 +19,7 @@ cell: 8-925-026-17-37
 [![](https://img.shields.io/static/v1?label=Codewars&message=Profile&logo=codewars&color=orange&style=flat-square)](https://www.codewars.com/users/Maxim%20Samorukov)
 
 [![](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&logo=linkedin&color=blueviolet&style=flat-square)](https://www.linkedin.com/in/maxim-samorukov-a2b10691/)
+
 </span>
 
 
