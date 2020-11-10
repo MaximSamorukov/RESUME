@@ -18,8 +18,12 @@ tr {
 }
 th {
     padding: 10px 40px;
-    border: 1px solid; 
+    border-top: 1px solid;
+    border-right: 1px solid; 
+    border-left: 1px solid; 
+    border-bottom: 1px solid; 
     font-size: 0.9em;
+
 }
 th:first-child {
     text-align: left;
