@@ -16,11 +16,11 @@ cell: 8-925-026-17-37
 
 <img src="https://img.shields.io/static/v1?label=HH&message=Resume&color=red&style=flat-square&link=https://hh.ru/resume/5dbce090ff07a13a4f0039ed1f735a674f6363&link=https://hh.ru/resume/5dbce090ff07a13a4f0039ed1f735a674f6363">
 
-<img src="https://img.shields.io/static/v1?label=Github&message=Profile&logo=github&color=red&style=flat-square&link=https://github.com/MaximSamorukov&link=https://github.com/MaximSamorukov">
+<img src="https://img.shields.io/static/v1?label=Github&message=Profile&logo=github&color=success&style=flat-square&link=https://github.com/MaximSamorukov&link=https://github.com/MaximSamorukov">
 
-<img src="https://img.shields.io/static/v1?label=HH&message=Resume&color=red&style=flat-square&link=https://hh.ru/resume/5dbce090ff07a13a4f0039ed1f735a674f6363&link=https://hh.ru/resume/5dbce090ff07a13a4f0039ed1f735a674f6363">
+<img src="https://img.shields.io/static/v1?label=Hexlet&message=Profile&color=informational&style=flat-square&link=https://ru.hexlet.io/u/maksim_ralph&link=https://ru.hexlet.io/u/maksim_ralph">
 
-<img src="https://img.shields.io/static/v1?label=HH&message=Resume&color=red&style=flat-square&link=https://hh.ru/resume/5dbce090ff07a13a4f0039ed1f735a674f6363&link=https://hh.ru/resume/5dbce090ff07a13a4f0039ed1f735a674f6363">
+<img src="https://img.shields.io/static/v1?label=Codewars&message=Profile&logo=codewars&color=#AD2C27&style=flat-square&link=https://www.codewars.com/users/Maxim%20Samorukov&link=https://www.codewars.com/users/Maxim%20Samorukov">
 
 <img src="https://img.shields.io/static/v1?label=HH&message=Resume&color=red&style=flat-square&link=https://hh.ru/resume/5dbce090ff07a13a4f0039ed1f735a674f6363&link=https://hh.ru/resume/5dbce090ff07a13a4f0039ed1f735a674f6363">
 
