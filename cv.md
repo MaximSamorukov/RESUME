@@ -130,6 +130,17 @@ cell: 8-925-026-17-37
       <td>https://github.com/MaximSamorukov/frontend-project-lvl1</td>
     </tr>
     <tr>
+      <td rowspan="3">Фильтр авиа билетов (тестовое задание)</td>
+      <td rowspan="3">HTML, CSS, JS, React</td>
+      <td>https://github.com/MaximSamorukov/avia-sales-front-end</td>
+    </tr>
+    <tr>
+      <td>https://github.com/KosyanMedia/test-tasks/tree/master/aviasales_frontend</td>
+    </tr>
+    <tr>
+      <td>https://avia-sales-app.herokuapp.com/</td>
+    </tr>
+    <tr>
       <td rowspan="2">Web-dev</td>
       <td rowspan="2">веб страница</td>
       <td>https://maximsamorukov.github.io/webdev/</td>
