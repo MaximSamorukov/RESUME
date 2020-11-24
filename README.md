@@ -53,23 +53,23 @@ https://maximsamorukov.github.io/RESUME/
     <tr>
       <td>HTML Academy</td>
       <td>
-        - HTML
-        - CSS
+        - HTML;
+        - CSS;
       </td>
     </tr>
     <tr>
       <td>RS School JS Frontend 2020</td>
       <td>
-        - веб проекты с адаптивным дизайном
-        - клиентские приложения (калькулятор, виртуальная клавиатура)
-        - SPA (работа со сторонними Api для получения информации; использование local storage)
+        - веб проекты с адаптивным дизайном;
+        - клиентские приложения (калькулятор, виртуальная клавиатура);
+        - SPA (работа со сторонними Api для получения информации; использование local storage);
       </td>
     </tr>
     <tr>
       <td>RS School NodeJS 2020</td>
       <td>
-        - создание cli приложения шифрования / дешифрования
-        - создание веб приложения на базе Express, MongoDB с функциями логирования, обработки ошибок, авторизации
+        - создание cli приложения шифрования / дешифрования;
+        - создание веб приложения на базе Express, MongoDB с функциями логирования, обработки ошибок, авторизации;
       </td>
     </tr>
   </table>
@@ -92,7 +92,7 @@ https://maximsamorukov.github.io/RESUME/
             <tr>
                 <td>Хекслет-1 Brain games</td>
                 <td>Приложение командной строки с возможностью выбора и игры в математические игры.</td>
-                <td><a href=">https://github.com/MaximSamorukov/frontend-project-lvl1">Github репозиторий</a></td>
+                <td><a href="https://github.com/MaximSamorukov/frontend-project-lvl1">Github репозиторий</a></td>
             </tr>
             <tr>
                 <td rowspan="3">Фильтр авиа билетов (тестовое задание)</td>
@@ -210,3 +210,5 @@ https://maximsamorukov.github.io/RESUME/
                 <td><a href="https://github.com/MaximSamorukov/reverse-int">Github репозиторий</a></td>
             </tr>
   </table>
+
+
