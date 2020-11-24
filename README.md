@@ -127,7 +127,7 @@ https://maximsamorukov.github.io/RESUME/
                 <td><a href="https://github.com/MaximSamorukov/data-test/tree/calculator">Github репозиторий</a></td>
             </tr>
             <tr>
-                <td><a href="https://MaximSamorukov.github.io/data-test/calculator">деплой</a></td>
+                <td><a href="https://maximsamorukov.github.io/data/calculator/">деплой</a></td>
             </tr>
             <tr>
                 <td rowspan="2">Virtual Keyboard</td>
