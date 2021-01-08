@@ -151,7 +151,7 @@ https://maximsamorukov.github.io/RESUME/.
                 </td>
             </tr>
             <tr>
-                <td><a href="https://elastic-stonebraker-0200af.netlify.app/">деплой
+                <td><a href="https://rolling-scopes-school.github.io/maximsamorukov-JS2020Q3/english-for-kids/dist/">деплой
                         (Chrome)</a></td>
             </tr>
             <tr>
