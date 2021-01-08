@@ -41,3 +41,9 @@ td {
     border-left: 1px solid, black; 
     border-bottom: 1px solid, black;
 }
+
+@media print {
+    .table-print {
+        border: 1px solid black;
+    }  
+}
