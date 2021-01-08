@@ -23,6 +23,10 @@ https://maximsamorukov.github.io/RESUME/.
 - Git;
 - VSCode, Webpack;
 
+### Иностранный язык
+- английский, Intermediate:
+- призентация на тему "State management in React applications", англ.: https://www.youtube.com/watch?v=8HPEFEaKCN0
+
 ### Обучение, курсы
 
   <table style="font-size: 80%" width="100%">
@@ -75,14 +79,6 @@ https://maximsamorukov.github.io/RESUME/.
     </tr>
   </table>
 
-### Иностранный язык
-- английский, Intermediate:
-  - школа с углубенным изучением английского языка;
-  - самостоятельная подготовка к экзаменам TOEFL, GRE;
-  - оффлайн курсы;
-  - курсы Skyeng;
-  - призентация на тему "State management in React applications", англ.: https://www.youtube.com/watch?v=8HPEFEaKCN0
-
 ### Мои некоммерческие проекты
   <table style="font-size: 80%" width="100%">
     <tr>
@@ -107,7 +103,7 @@ https://maximsamorukov.github.io/RESUME/.
                 <td><a href="https://pedantic-bhabha-137b93.netlify.app/">деплой (Chrome)</a></td>
             </tr>
             <tr>
-                <td rowspan="3">Частичная реализация главной страницы сайта https://news.ycombinator.com/news. Тестовое задание для на позицию фронтенд разработчик.</td>
+                <td rowspan="3">Частичная реализация главной страницы сайта https://news.ycombinator.com/news. Тестовое задание на позицию фронтенд разработчик.</td>
                 <td rowspan="3">HTML, CSS, JS, React.</td>
                 <td><a href="https://github.com/MaximSamorukov/avito-test">Github репозиторий</a></td>
             </tr>
@@ -149,12 +145,12 @@ https://maximsamorukov.github.io/RESUME/.
                 <td><a href="https://MaximSamorukov.github.io/data-test/gem-puzzle/gem-puzzle/dist/">деплой (Chrome)</a></td>
             </tr>
             <tr>
-                <td rowspan="2">Web-dev</td>
-                <td rowspan="2">Веб страница (верстка).</td>
-                <td><a href="https://maximsamorukov.github.io/webdev/">деплой (Chrome)</a></td>
+                <td rowspan="2">English for kids</td>
+                <td rowspan="2">Детское приложение для изучения английских слов.</td>
+                <td><a href="https://github.com/MaximSamorukov/">Github репозиторий</a></td>
             </tr>
             <tr>
-                <td><a href="https://github.com/MaximSamorukov/data-test/tree/webdev">Github репозиторий</a></td>
+                <td><a href="https://rolling-scopes-school.github.io/maximsamorukov-JS2020Q3/english-for-kids/dist/">деплой (Chrome)</a></td>
             </tr>
             <tr>
                 <td rowspan="2">Calculator</td>
@@ -176,31 +172,6 @@ https://maximsamorukov.github.io/RESUME/.
                     текстовых
                     файлов.</td>
                 <td><a href="https://github.com/MaximSamorukov/caesar-cipher">Github репозиторий</a></td>
-            </tr>
-            <tr>
-                <td rowspan="2">Shelter</td>
-                <td rowspan="2">Страницы адаптивного веб сайта приюта для животных. Применяется HTML, CSS, JS.
-                    Готовность
-                    50%.</td>
-                <td><a href="https://github.com/MaximSamorukov/data-test/tree/shelter">Github
-                        репозиторий</a></td>
-            </tr>
-            <tr>
-                <td><a href="https://MaximSamorukov.github.io/data-test/shelter/pages/main/">деплой (Chrome)</a>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="2">Momentum</td>
-                <td rowspan="2">Приложение, показывающее погоду в городе по запросу, цитаты известных людей, текущее
-                    время,
-                    имя пользователя и его цель на текущий день. Фоновое изображение меняется в зависимости от времени
-                    суток. Для хранения данных приложение использует локальное хранилище - local storage. Представляемая
-                    информация запрашивается из доступных API.</td>
-                <td><a href="https://github.com/MaximSamorukov/data-test/tree/momentum">Github
-                        репозиторий</a></td>
-            </tr>
-            <tr>
-                <td><a href="https://MaximSamorukov.github.io/data-test/momentum">деплой (Chrome)</a></td>
             </tr>
             <tr>
                 <td>Expression-calculator</td>
