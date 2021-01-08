@@ -144,13 +144,15 @@ https://maximsamorukov.github.io/RESUME/.
             <tr>
                 <td><a href="https://MaximSamorukov.github.io/data-test/gem-puzzle/gem-puzzle/dist/">деплой (Chrome)</a></td>
             </tr>
-            <tr>
+                <tr>
                 <td rowspan="2">English for kids</td>
                 <td rowspan="2">Детское приложение для изучения английских слов.</td>
-                <td><a href="https://github.com/MaximSamorukov/">Github репозиторий</a></td>
+                <td><a href="https://github.com/MaximSamorukov/data-test/tree/english-for-kids">Github репозиторий</a>
+                </td>
             </tr>
             <tr>
-                <td><a href="https://rolling-scopes-school.github.io/maximsamorukov-JS2020Q3/english-for-kids/dist/">деплой (Chrome)</a></td>
+                <td><a href="https://elastic-stonebraker-0200af.netlify.app/">деплой
+                        (Chrome)</a></td>
             </tr>
             <tr>
                 <td rowspan="2">Calculator</td>
