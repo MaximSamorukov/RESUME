@@ -2,7 +2,8 @@
 ### web developer, веб разработчик
 e-mail: maxim.samorukov@gmail.com,
 cell: 8-925-026-17-37,
-https://maximsamorukov.github.io/RESUME/.
+https://maximsamorukov.github.io/RESUME/index-en.html,
+https://maximsamorukov.github.io/RESUME/index.html.
 
 ### Предыдуший опыт работы и обучения:
 - высшее техническое образование МГТУ им. Н.Э. Баумана (Технологии сварочного производства);
