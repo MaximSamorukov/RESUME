@@ -4,24 +4,22 @@ e-mail: maxim.samorukov@gmail.com,
 cell: 8-925-026-17-37
 https://maximsamorukov.github.io/RESUME/
 
-### Предыдуший опыт работы и обучения:
-- высшее техническое образование МГТУ им. Н.Э. Баумана (Технологии сварочного производства);
-- 13 лет опыта научно-исследовательской работы в области соединения металлических материалов методами сварки в твердой фазе.
-
-### О себе
-Планирую дальнейшее развитие в full-stack направлении. Кроме того, хочу познакомиться с IOT и AR технологиями.
+### Образование
+- МГТУ им. Н.Э.Баумана, кафедра Машиностроения;
 
 ### Профили
 
 [![](https://img.shields.io/static/v1?label=HH&message=Resume&color=red&style=flat-square)](https://hh.ru/resume/5dbce090ff07a13a4f0039ed1f735a674f6363) [![](https://img.shields.io/static/v1?label=Github&message=Profile&logo=github&color=success&style=flat-square)](https://github.com/MaximSamorukov) [![](https://img.shields.io/static/v1?label=Hexlet&message=Profile&color=informational&style=flat-square)](https://ru.hexlet.io/u/maksim_ralph) [![](https://img.shields.io/static/v1?label=Codewars&message=Profile&logo=codewars&color=orange&style=flat-square)](https://www.codewars.com/users/Maxim%20Samorukov) [![](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&logo=linkedin&color=blueviolet&style=flat-square)](https://www.linkedin.com/in/maxim-samorukov-a2b10691/)
 
 ### Стек технологий
-- HTML, CSS;
+- HTML, CSS, Sass, Less;
 - JavaScript, Node.js;
-- React, Redux;
+- Express.js, Connect;
+- React, React-Redux, React-Router;
+- Lodash, Axios;
 - Figma, Avocode;
-- Git;
-- VSCode, Webpack;
+- Git, ESlint;
+- VSCode, npm, Kubuntu;
 
 ### Обучение, курсы
 
@@ -63,6 +61,7 @@ https://maximsamorukov.github.io/RESUME/
       <td>RS School JS Frontend 2020</td>
       <td>
         - веб проекты с адаптивным дизайном;
+        - клиентские приложения (калькулятор, виртуальная клавиатура);
         - SPA (работа со сторонними Api для получения информации; использование local storage);
       </td>
     </tr>
@@ -80,8 +79,8 @@ https://maximsamorukov.github.io/RESUME/
   - школа с углубенным изучением английского языка;
   - самостоятельная подготовка к экзаменам TOEFL, GRE;
   - оффлайн курсы;
-  - курсы Skyeng;
-  - призентация на тему "State management in React applications", англ.: https://www.youtube.com/watch?v=8HPEFEaKCN0
+  - курсы Skyeng.
+
 
 ### Мои некоммерческие проекты
   <table style="font-size: 80%" width="100%">
@@ -96,28 +95,6 @@ https://maximsamorukov.github.io/RESUME/
                 <td><a href="https://github.com/MaximSamorukov/frontend-project-lvl1">Github репозиторий</a></td>
             </tr>
             <tr>
-                <td rowspan="3">Covid dashbord. Обработка и представление данных представляемых api.covid19api.com</td>
-                <td rowspan="3">HTML, CSS, JS.</td>
-                <td><a href="https://github.com/MaximSamorukov/covid">Github репозиторий</a></td>
-            </tr>
-            <td><a href="https://github.com/rolling-scopes-school/tasks/blob/master/tasks/covid-dashboard.md">текст задания</a>
-            </td>
-            </tr>
-            <tr>
-                <td><a href="https://pedantic-bhabha-137b93.netlify.app/">деплой</a></td>
-            </tr>
-            <tr>
-                <td rowspan="3">Частичная реализация главной страницы сайта https://news.ycombinator.com/news. Тестовое задание для на позицию фронтенд разработчик.</td>
-                <td rowspan="3">HTML, CSS, JS, React.</td>
-                <td><a href="https://github.com/MaximSamorukov/avito-test">Github репозиторий</a></td>
-            </tr>
-            <td><a href="https://github.com/avito-tech/sx-frontend-trainee-assignment">текст задания</a>
-            </td>
-            </tr>
-            <tr>
-                <td><a href="https://determined-noether-6d7cb3.netlify.app/">деплой</a></td>
-            </tr>
-            <tr>
                 <td rowspan="3">Фильтр авиа билетов (тестовое задание)</td>
                 <td rowspan="3">HTML, CSS, JS, React.</td>
                 <td><a href="https://github.com/MaximSamorukov/avia-sales-front-end">Github репозиторий</a></td>
@@ -127,18 +104,6 @@ https://maximsamorukov.github.io/RESUME/
             </tr>
             <tr>
                 <td><a href="https://avia-sales-app.herokuapp.com/">деплой</a></td>
-            </tr>
-            <tr>
-                <td rowspan="2">Virtual Keyboard</td>
-                <td rowspan="2">Виртуальная экранная клавиатура с опцией звукового оформления и возможностью
-                    распознования
-                    голоса.</td>
-                <td><a href="https://github.com/MaximSamorukov/data-test/tree/virtual">Github
-                        репозиторий</a></td>
-            </tr>
-            <tr>
-                <td><a href="https://MaximSamorukov.github.io/data-test/virtual-keyboard">деплой</a>
-                </td>
             </tr>
             <tr>
                 <td rowspan="2">Пятнашки</td>
@@ -163,6 +128,18 @@ https://maximsamorukov.github.io/RESUME/
             </tr>
             <tr>
                 <td><a href="https://maximsamorukov.github.io/data/calculator/">деплой</a></td>
+            </tr>
+            <tr>
+                <td rowspan="2">Virtual Keyboard</td>
+                <td rowspan="2">Виртуальная экранная клавиатура с опцией звукового оформления и возможностью
+                    распознования
+                    голоса.</td>
+                <td><a href="https://github.com/MaximSamorukov/data-test/tree/virtual">Github
+                        репозиторий</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://MaximSamorukov.github.io/data-test/virtual-keyboard">деплой</a>
+                </td>
             </tr>
             <tr>
                 <td>Express Rest Service</td>
@@ -211,6 +188,26 @@ https://maximsamorukov.github.io/RESUME/
                 <td>Brackets</td>
                 <td>Решена задача определения сбалансированности строки с различными типами скобок.</td>
                 <td><a href="https://github.com/MaximSamorukov/brackets">Github репозиторий</a></td>
+            </tr>
+            <tr>
+                <td>Morse-decoder</td>
+                <td>Функция дешифрования кода Морзе.</td>
+                <td><a href="https://github.com/MaximSamorukov/morse-decoder">Github репозиторий</a></td>
+            </tr>
+            <tr>
+                <td>Human Readable Number</td>
+                <td>Решена задача преобразования числовых значений от 1 до 999 в строчный формат.</td>
+                <td><a href="https://github.com/MaximSamorukov/human-readable-number">Github репозиторий</a></td>
+            </tr>
+            <tr>
+                <td>Towel Sort</td>
+                <td>Решена задача сортировки массива массивов цифр в различных направлениях.</td>
+                <td><a href="https://github.com/MaximSamorukov/towel-sort">Github репозиторий</a></td>
+            </tr>
+            <tr>
+                <td>Reverse Int</td>
+                <td>Функция преобразования чесел, изменение порядка следования цифр на противоположенное.</td>
+                <td><a href="https://github.com/MaximSamorukov/reverse-int">Github репозиторий</a></td>
             </tr>
   </table>
 
