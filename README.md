@@ -5,15 +5,12 @@ cell: 8-925-026-17-37
 https://maximsamorukov.github.io/RESUME/
 
 ### Предыдуший опыт работы и обучения:
-- высшее техническое образование МГТУ им. Н.Э. Баумана (Технологии сварочного производства);
-- 13 лет опыта научно-исследовательской работы в области соединения металлических материалов методами сварки в твердой фазе.
-
-### О себе
-Планирую дальнейшее развитие в full-stack направлении. Кроме того, хочу познакомиться с IOT и AR технологиями.
+- высшее техническое образование, МГТУ им. Н.Э. Баумана;
+- научно-исследовательская работа в области материаловедения.
 
 ### Профили
 
-[![](https://img.shields.io/static/v1?label=HH&message=Resume&color=red&style=flat-square)](https://hh.ru/resume/5dbce090ff07a13a4f0039ed1f735a674f6363) [![](https://img.shields.io/static/v1?label=Github&message=Profile&logo=github&color=success&style=flat-square)](https://github.com/MaximSamorukov) [![](https://img.shields.io/static/v1?label=Hexlet&message=Profile&color=informational&style=flat-square)](https://ru.hexlet.io/u/maksim_ralph) [![](https://img.shields.io/static/v1?label=Codewars&message=Profile&logo=codewars&color=orange&style=flat-square)](https://www.codewars.com/users/Maxim%20Samorukov) [![](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&logo=linkedin&color=blueviolet&style=flat-square)](https://www.linkedin.com/in/maxim-samorukov-a2b10691/)
+[![](https://img.shields.io/static/v1?label=Github&message=Profile&logo=github&color=success&style=flat-square)](https://github.com/MaximSamorukov) [![](https://img.shields.io/static/v1?label=Hexlet&message=Profile&color=informational&style=flat-square)](https://ru.hexlet.io/u/maksim_ralph) [![](https://img.shields.io/static/v1?label=Codewars&message=Profile&logo=codewars&color=orange&style=flat-square)](https://www.codewars.com/users/Maxim%20Samorukov) [![](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&logo=linkedin&color=blueviolet&style=flat-square)](https://www.linkedin.com/in/maxim-samorukov-a2b10691/)
 
 ### Стек технологий
 - HTML, CSS;
@@ -60,14 +57,14 @@ https://maximsamorukov.github.io/RESUME/
       </td>
     </tr>
     <tr>
-      <td>RS School JS Frontend 2020</td>
+      <td>RS School JS Frontend</td>
       <td>
         - веб проекты с адаптивным дизайном;
         - SPA (работа со сторонними Api для получения информации; использование local storage);
       </td>
     </tr>
     <tr>
-      <td>RS School NodeJS 2020</td>
+      <td>RS School NodeJS</td>
       <td>
         - создание cli приложения шифрования / дешифрования;
         - создание веб приложения на базе Express, MongoDB с функциями логирования, обработки ошибок, авторизации;
@@ -149,6 +146,14 @@ https://maximsamorukov.github.io/RESUME/
                 <td><a href="https://MaximSamorukov.github.io/data-test/gem-puzzle/gem-puzzle/dist/">деплой (Chrome)</a></td>
             </tr>
             <tr>
+                <td rowspan="2">Charts</td>
+                <td rowspan="2">Работа с api для получения финансовых новостей и котоировок акций. JS, Bootstrap, React, Redux</td>
+                <td><a href="https://goofy-curie-94191e.netlify.app/">деплой (Chrome)</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/MaximSamorukov/charts/tree/charts-dev">Github репозиторий</a></td>
+            </tr>
+            <tr>
                 <td rowspan="2">Web-dev</td>
                 <td rowspan="2">Веб страница (верстка).</td>
                 <td><a href="https://maximsamorukov.github.io/webdev/">деплой (Chrome)</a></td>
@@ -177,19 +182,7 @@ https://maximsamorukov.github.io/RESUME/
                     файлов.</td>
                 <td><a href="https://github.com/MaximSamorukov/caesar-cipher">Github репозиторий</a></td>
             </tr>
-            <tr>
-                <td rowspan="2">Shelter</td>
-                <td rowspan="2">Страницы адаптивного веб сайта приюта для животных. Применяется HTML, CSS, JS.
-                    Готовность
-                    50%.</td>
-                <td><a href="https://github.com/MaximSamorukov/data-test/tree/shelter">Github
-                        репозиторий</a></td>
-            </tr>
-            <tr>
-                <td><a href="https://MaximSamorukov.github.io/data-test/shelter/pages/main/">деплой (Chrome)</a>
-                </td>
-            </tr>
-            <tr>
+              <tr>
                 <td rowspan="2">Momentum</td>
                 <td rowspan="2">Приложение, показывающее погоду в городе по запросу, цитаты известных людей, текущее
                     время,
