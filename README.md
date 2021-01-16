@@ -79,7 +79,7 @@ https://maximsamorukov.github.io/RESUME/index.html.
     </tr>
   </table>
 
-### Мои некоммерческие проекты
+### Мои проекты
   <table style="font-size: 80%" width="100%">
     <tr>
                 <th>Наименование</th>
