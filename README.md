@@ -16,7 +16,7 @@ https://maximsamorukov.github.io/RESUME/index.html.
 [![](https://img.shields.io/static/v1?label=Github&message=Profile&logo=github&color=success&style=flat-square)](https://github.com/MaximSamorukov) [![](https://img.shields.io/static/v1?label=Hexlet&message=Profile&color=informational&style=flat-square)](https://ru.hexlet.io/u/maksim_ralph) [![](https://img.shields.io/static/v1?label=Codewars&message=Profile&logo=codewars&color=orange&style=flat-square)](https://www.codewars.com/users/Maxim%20Samorukov) [![](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&logo=linkedin&color=blueviolet&style=flat-square)](https://www.linkedin.com/in/maxim-samorukov-a2b10691/)
 
 ### Стек технологий
-- HTML, CSS;
+- HTML, CSS, Less;
 - JavaScript, Node.js;
 - React, Redux;
 - Figma, Avocode;
@@ -85,6 +85,14 @@ https://maximsamorukov.github.io/RESUME/index.html.
                 <th>Наименование</th>
                 <th>Описание, ключевые технологии</th>
                 <th>Ссылка</th>
+            </tr>
+             <tr>
+                <td rowspan="2">Сайт для управления ссылками (коммерческий проект)</td>
+                <td rowspan="2">HTML, CSS, Less, JS.</td>
+                <td><a href="https://github.com/MaximSamorukov/upwork_1">Github репозиторий</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://maximsamorukov.github.io/upwork_1/index.html">деплой </a></td>
             </tr>
             <tr>
                 <td>Хекслет-1 Brain games</td>
