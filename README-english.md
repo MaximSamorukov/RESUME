@@ -157,7 +157,7 @@ https://maximsamorukov.github.io/RESUME/index.html.
             <tr>
                 <td><a href="https://github.com/MaximSamorukov/charts/tree/charts-dev">Github repo</a></td>
             </tr>
-                        <tr>
+            <tr>
                 <td rowspan="2">Interactive panel (test task)</td>
                 <td rowspan="2">JS</td>
                 <td><a href="https://maximsamorukov.github.io/globex-it/index.html">deploy </a></td>
