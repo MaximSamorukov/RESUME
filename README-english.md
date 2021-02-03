@@ -157,6 +157,14 @@ https://maximsamorukov.github.io/RESUME/index.html.
             <tr>
                 <td><a href="https://github.com/MaximSamorukov/charts/tree/charts-dev">Github repo</a></td>
             </tr>
+                        <tr>
+                <td rowspan="2">Interactive panel (test task)</td>
+                <td rowspan="2">JS</td>
+                <td><a href="https://maximsamorukov.github.io/globex-it/index.html">deploy </a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/MaximSamorukov/globex-it">Github repo</a></td>
+            </tr>
                 <tr>
                 <td rowspan="2">English for kids</td>
                 <td rowspan="2">Kid's application to study english words.</td>

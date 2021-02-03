@@ -161,6 +161,14 @@ https://maximsamorukov.github.io/RESUME/index.html.
                 <td><a href="https://github.com/MaximSamorukov/charts/tree/charts-dev">Github репозиторий</a></td>
             </tr>
             <tr>
+                <td rowspan="2">Интерактивная панель (тестовое задание)</td>
+                <td rowspan="2">JS</td>
+                <td><a href="https://maximsamorukov.github.io/globex-it/index.html">деплой </a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/MaximSamorukov/globex-it">Github репозиторий</a></td>
+            </tr>
+            <tr>
                 <td rowspan="2">English for kids</td>
                 <td rowspan="2">Детское приложение для изучения английских слов.</td>
                 <td><a href="https://github.com/MaximSamorukov/data-test/tree/english-for-kids">Github репозиторий</a>
