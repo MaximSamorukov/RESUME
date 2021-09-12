@@ -12,7 +12,7 @@ https://maximsamorukov.github.io/RESUME/index.html.
   - Разработка новых и поддержка существующих интерфейсов нагруженных приложений для государственной структуры и страховой компании;
   - Разработка визуальных React-компонентов;
   - Написание функций обработки данных;
-  - Стек: JS, TS, React;
+  - Стек: JS, TS, React, SASS;
   - Работа с библиотеками: Ant Design, Leaflet;
   - Работа с REST Api;
   - Системы контроля версий: Git (Bitbucket, Gitlab);
@@ -25,7 +25,7 @@ https://maximsamorukov.github.io/RESUME/index.html.
 [![](https://img.shields.io/static/v1?label=Github&message=Profile&logo=github&color=success&style=flat-square)](https://github.com/MaximSamorukov) [![](https://img.shields.io/static/v1?label=Hexlet&message=Profile&color=informational&style=flat-square)](https://ru.hexlet.io/u/maksim_ralph) [![](https://img.shields.io/static/v1?label=Codewars&message=Profile&logo=codewars&color=orange&style=flat-square)](https://www.codewars.com/users/Maxim%20Samorukov) [![](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&logo=linkedin&color=blueviolet&style=flat-square)](https://www.linkedin.com/in/maxim-samorukov-a2b10691/)
 
 ### Стек технологий
-- HTML, CSS, Less;
+- HTML, CSS, Less, SASS;
 - JavaScript, Node.js;
 - React, Redux;
 - Figma, Avocode;
