@@ -8,18 +8,24 @@ https://maximsamorukov.github.io/RESUME/index-en.html,
 https://maximsamorukov.github.io/RESUME/index.html.
 
 ### Предыдуший опыт работы и обучения:
-- высшее техническое образование МГТУ им. Н.Э. Баумана (Технологии сварочного производства);
-- 13 лет опыта научно-исследовательской работы в области соединения металлических материалов методами сварки в твердой фазе.
-
-### О себе
-Планирую дальнейшее развитие в full-stack направлении. Кроме того, буду знакомиться с IOT и AR технологиями.
+- разработчик интерфейсов, 02.2021 - н.в.
+  - Разработка новых и поддержка существующих интерфейсов нагруженных приложений для государственной структуры и страховой компании;
+  - Разработка визуальных React-компонентов;
+  - Написание функций обработки данных;
+  - Стек: JS, TS, React, SASS;
+  - Работа с библиотеками: Ant Design, Leaflet;
+  - Работа с REST Api;
+  - Системы контроля версий: Git (Bitbucket, Gitlab);
+  - Задачи в Jira;
+- высшее техническое образование, МГТУ им. Н.Э. Баумана;
+- научно-исследовательская работа в области материаловедения.
 
 ### Профили
 
-[![](https://img.shields.io/static/v1?label=HH&message=Resume&color=red&style=flat-square)](https://hh.ru/resume/5dbce090ff07a13a4f0039ed1f735a674f6363) [![](https://img.shields.io/static/v1?label=Github&message=Profile&logo=github&color=success&style=flat-square)](https://github.com/MaximSamorukov) [![](https://img.shields.io/static/v1?label=Hexlet&message=Profile&color=informational&style=flat-square)](https://ru.hexlet.io/u/maksim_ralph) [![](https://img.shields.io/static/v1?label=Codewars&message=Profile&logo=codewars&color=orange&style=flat-square)](https://www.codewars.com/users/Maxim%20Samorukov) [![](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&logo=linkedin&color=blueviolet&style=flat-square)](https://www.linkedin.com/in/maxim-samorukov-a2b10691/) [![](https://img.shields.io/static/v1?label=Resume&message=english&color=informational&style=flat-square)](https://resume.io/r/sp3tFgS9X)
+[![](https://img.shields.io/static/v1?label=Github&message=Profile&logo=github&color=success&style=flat-square)](https://github.com/MaximSamorukov) [![](https://img.shields.io/static/v1?label=Hexlet&message=Profile&color=informational&style=flat-square)](https://ru.hexlet.io/u/maksim_ralph) [![](https://img.shields.io/static/v1?label=Codewars&message=Profile&logo=codewars&color=orange&style=flat-square)](https://www.codewars.com/users/Maxim%20Samorukov) [![](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&logo=linkedin&color=blueviolet&style=flat-square)](https://www.linkedin.com/in/maxim-samorukov-a2b10691/)
 
 ### Стек технологий
-- HTML, CSS;
+- HTML, CSS, Less, SASS;
 - JavaScript, Node.js;
 - React, Redux;
 - Figma, Avocode;
@@ -67,14 +73,14 @@ https://maximsamorukov.github.io/RESUME/index.html.
       </td>
     </tr>
     <tr>
-      <td>RS School JS Frontend 2020</td>
+      <td>RS School JS Frontend</td>
       <td>
         - веб проекты с адаптивным дизайном;
         - SPA (работа со сторонними Api для получения информации; использование local storage);
       </td>
     </tr>
     <tr>
-      <td>RS School NodeJS 2020</td>
+      <td>RS School NodeJS</td>
       <td>
         - создание cli приложения шифрования / дешифрования;
         - создание веб приложения на базе Express, MongoDB с функциями логирования, обработки ошибок, авторизации;
@@ -82,12 +88,20 @@ https://maximsamorukov.github.io/RESUME/index.html.
     </tr>
   </table>
 
-### Мои некоммерческие проекты
+### Мои проекты
   <table style="font-size: 80%" width="100%">
     <tr>
                 <th>Наименование</th>
                 <th>Описание, ключевые технологии</th>
                 <th>Ссылка</th>
+            </tr>
+             <tr>
+                <td rowspan="2">Сайт для управления ссылками (коммерческий проект)</td>
+                <td rowspan="2">HTML, CSS, Less, JS.</td>
+                <td><a href="https://github.com/MaximSamorukov/upwork_1">Github репозиторий</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://maximsamorukov.github.io/upwork_1/index.html">деплой </a></td>
             </tr>
             <tr>
                 <td>Хекслет-1 Brain games</td>
@@ -103,7 +117,7 @@ https://maximsamorukov.github.io/RESUME/index.html.
             </td>
             </tr>
             <tr>
-                <td><a href="https://pedantic-bhabha-137b93.netlify.app/">деплой (Chrome)</a></td>
+                <td><a href="https://pedantic-bhabha-137b93.netlify.app/">деплой </a></td>
             </tr>
             <tr>
                 <td rowspan="3">Частичная реализация главной страницы сайта https://news.ycombinator.com/news. Тестовое задание на позицию фронтенд разработчик.</td>
@@ -114,7 +128,7 @@ https://maximsamorukov.github.io/RESUME/index.html.
             </td>
             </tr>
             <tr>
-                <td><a href="https://determined-noether-6d7cb3.netlify.app/">деплой (Chrome)</a></td>
+                <td><a href="https://determined-noether-6d7cb3.netlify.app/">деплой </a></td>
             </tr>
             <tr>
                 <td rowspan="3">Фильтр авиа билетов (тестовое задание)</td>
@@ -125,7 +139,7 @@ https://maximsamorukov.github.io/RESUME/index.html.
             </td>
             </tr>
             <tr>
-                <td><a href="https://fervent-fermi-869fdb.netlify.app/">деплой (Chrome)</a></td>
+                <td><a href="https://fervent-fermi-869fdb.netlify.app/">деплой </a></td>
             </tr>
             <tr>
                 <td rowspan="2">Virtual Keyboard</td>
@@ -136,7 +150,7 @@ https://maximsamorukov.github.io/RESUME/index.html.
                         репозиторий</a></td>
             </tr>
             <tr>
-                <td><a href="https://MaximSamorukov.github.io/data-test/virtual-keyboard">деплой (Chrome)</a>
+                <td><a href="https://MaximSamorukov.github.io/data-test/virtual-keyboard">деплой </a>
                 </td>
             </tr>
             <tr>
@@ -145,9 +159,25 @@ https://maximsamorukov.github.io/RESUME/index.html.
                 <td><a href="https://github.com/MaximSamorukov/data-test/tree/gem-puzzle">Github репозиторий</a></td>
             </tr>
             <tr>
-                <td><a href="https://MaximSamorukov.github.io/data-test/gem-puzzle/gem-puzzle/dist/">деплой (Chrome)</a></td>
+                <td><a href="https://MaximSamorukov.github.io/data-test/gem-puzzle/gem-puzzle/dist/">деплой </a></td>
             </tr>
-                <tr>
+            <tr>
+                <td rowspan="2">Charts</td>
+                <td rowspan="2">Работа с api для получения финансовых новостей и котоировок акций. JS, Bootstrap, React, Redux</td>
+                <td><a href="https://goofy-curie-94191e.netlify.app/">деплой </a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/MaximSamorukov/charts/tree/charts-dev">Github репозиторий</a></td>
+            </tr>
+            <tr>
+                <td rowspan="2">Интерактивная панель (тестовое задание)</td>
+                <td rowspan="2">JS</td>
+                <td><a href="https://maximsamorukov.github.io/globex-it/index.html">деплой </a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/MaximSamorukov/globex-it">Github репозиторий</a></td>
+            </tr>
+            <tr>
                 <td rowspan="2">English for kids</td>
                 <td rowspan="2">Детское приложение для изучения английских слов.</td>
                 <td><a href="https://github.com/MaximSamorukov/data-test/tree/english-for-kids">Github репозиторий</a>
@@ -155,7 +185,7 @@ https://maximsamorukov.github.io/RESUME/index.html.
             </tr>
             <tr>
                 <td><a href="https://rolling-scopes-school.github.io/maximsamorukov-JS2020Q3/english-for-kids/dist/">деплой
-                        (Chrome)</a></td>
+                        </a></td>
             </tr>
             <tr>
                 <td rowspan="2">Calculator</td>
@@ -163,7 +193,7 @@ https://maximsamorukov.github.io/RESUME/index.html.
                 <td><a href="https://github.com/MaximSamorukov/data-test/tree/calculator">Github репозиторий</a></td>
             </tr>
             <tr>
-                <td><a href="https://maximsamorukov.github.io/data/calculator/">деплой (Chrome)</a></td>
+                <td><a href="https://maximsamorukov.github.io/data/calculator/">деплой </a></td>
             </tr>
             <tr>
                 <td>Express Rest Service</td>

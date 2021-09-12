@@ -9,17 +9,14 @@ https://maximsamorukov.github.io/RESUME/index.html.
 
 ### Working Experience and education:
 - Master's degree Moscow State Technical University named after N.E. Bauman, Moscow;
-- 13 years experience as a welding engineer in Federal State Unitary Enterprise All-Russian Institute of Aviation Materials.
-
-### About me
-I'm a frontend web engineer how is in continuous development in frontend and backend area. Also I'm interested in Iot and AR technologies.
+- research and development job in material science.
 
 ### Profiles
 
-[![](https://img.shields.io/static/v1?label=HH&message=Resume&color=red&style=flat-square)](https://hh.ru/resume/5dbce090ff07a13a4f0039ed1f735a674f6363) [![](https://img.shields.io/static/v1?label=Github&message=Profile&logo=github&color=success&style=flat-square)](https://github.com/MaximSamorukov) [![](https://img.shields.io/static/v1?label=Hexlet&message=Profile&color=informational&style=flat-square)](https://ru.hexlet.io/u/maksim_ralph) [![](https://img.shields.io/static/v1?label=Codewars&message=Profile&logo=codewars&color=orange&style=flat-square)](https://www.codewars.com/users/Maxim%20Samorukov) [![](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&logo=linkedin&color=blueviolet&style=flat-square)](https://www.linkedin.com/in/maxim-samorukov-a2b10691/) [![](https://img.shields.io/static/v1?label=Resume&message=english&color=informational&style=flat-square)](https://resume.io/r/sp3tFgS9X)
+[![](https://img.shields.io/static/v1?label=Github&message=Profile&logo=github&color=success&style=flat-square)](https://github.com/MaximSamorukov) [![](https://img.shields.io/static/v1?label=Hexlet&message=Profile&color=informational&style=flat-square)](https://ru.hexlet.io/u/maksim_ralph) [![](https://img.shields.io/static/v1?label=Codewars&message=Profile&logo=codewars&color=orange&style=flat-square)](https://www.codewars.com/users/Maxim%20Samorukov) [![](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&logo=linkedin&color=blueviolet&style=flat-square)](https://www.linkedin.com/in/maxim-samorukov-a2b10691/) [![](https://img.shields.io/static/v1?label=Resume&message=english&color=informational&style=flat-square)](https://resume.io/r/sp3tFgS9X)
 
 ### Working stack, keywords:
-- HTML, CSS;
+- HTML, CSS, Less;
 - JavaScript, Node.js;
 - React, Redux;
 - Figma, Avocode;
@@ -90,6 +87,13 @@ I'm a frontend web engineer how is in continuous development in frontend and bac
                 <th>Link</th>
             </tr>
             <tr>
+                <td rowspan="2">Website to manage links (commercial project)</td>
+                <td rowspan="2">HTML, CSS, Less, JS.</td>
+                <td><a href="https://github.com/MaximSamorukov/upwork_1">Github repo</a></td>
+            <tr>
+                <td><a href="https://maximsamorukov.github.io/upwork_1/index.html">deploy </a></td>
+            </tr>
+            <tr>
                 <td>Hexlet-1 Brain games</td>
                 <td>Application that includes five math games (cli).</td>
                 <td><a href="https://github.com/MaximSamorukov/frontend-project-lvl1">Github repo</a></td>
@@ -103,7 +107,7 @@ I'm a frontend web engineer how is in continuous development in frontend and bac
             </td>
             </tr>
             <tr>
-                <td><a href="https://pedantic-bhabha-137b93.netlify.app/">deploy (Chrome)</a></td>
+                <td><a href="https://pedantic-bhabha-137b93.netlify.app/">deploy </a></td>
             </tr>
             <tr>
                 <td rowspan="3">Partly built main page of web site https://news.ycombinator.com/news. "News" is the only working option in the UI. Done as a test task on the frontend developer position.</td>
@@ -114,7 +118,7 @@ I'm a frontend web engineer how is in continuous development in frontend and bac
             </td>
             </tr>
             <tr>
-                <td><a href="https://determined-noether-6d7cb3.netlify.app/">deploy (Chrome)</a></td>
+                <td><a href="https://determined-noether-6d7cb3.netlify.app/">deploy </a></td>
             </tr>
             <tr>
                 <td rowspan="3">Avia tickets filter. Done as a test task on the frontend developer position.</td>
@@ -125,7 +129,7 @@ I'm a frontend web engineer how is in continuous development in frontend and bac
             </td>
             </tr>
             <tr>
-                <td><a href="https://fervent-fermi-869fdb.netlify.app/">deploy (Chrome)</a></td>
+                <td><a href="https://fervent-fermi-869fdb.netlify.app/">deploy </a></td>
             </tr>
             <tr>
                 <td rowspan="2">Virtual Keyboard</td>
@@ -134,7 +138,7 @@ I'm a frontend web engineer how is in continuous development in frontend and bac
                         repo</a></td>
             </tr>
             <tr>
-                <td><a href="https://MaximSamorukov.github.io/data-test/virtual-keyboard">deploy (Chrome)</a>
+                <td><a href="https://MaximSamorukov.github.io/data-test/virtual-keyboard">deploy </a>
                 </td>
             </tr>
             <tr>
@@ -143,7 +147,23 @@ I'm a frontend web engineer how is in continuous development in frontend and bac
                 <td><a href="https://github.com/MaximSamorukov/data-test/tree/gem-puzzle">Github repo</a></td>
             </tr>
             <tr>
-                <td><a href="https://MaximSamorukov.github.io/data-test/gem-puzzle/gem-puzzle/dist/">deploy (Chrome)</a></td>
+                <td><a href="https://MaximSamorukov.github.io/data-test/gem-puzzle/gem-puzzle/dist/">deploy </a></td>
+            </tr>
+            <tr>
+                <td rowspan="2">Charts</td>
+                <td rowspan="2">Web application to show latest news and stock prices. JS, Bootstrap, React, Redux</td>
+                <td><a href="https://goofy-curie-94191e.netlify.app/">deploy </a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/MaximSamorukov/charts/tree/charts-dev">Github repo</a></td>
+            </tr>
+            <tr>
+                <td rowspan="2">Interactive panel (test task)</td>
+                <td rowspan="2">JS</td>
+                <td><a href="https://maximsamorukov.github.io/globex-it/index.html">deploy </a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/MaximSamorukov/globex-it">Github repo</a></td>
             </tr>
                 <tr>
                 <td rowspan="2">English for kids</td>
@@ -153,7 +173,7 @@ I'm a frontend web engineer how is in continuous development in frontend and bac
             </tr>
             <tr>
                 <td><a href="https://rolling-scopes-school.github.io/maximsamorukov-JS2020Q3/english-for-kids/dist/">deploy
-                        (Chrome)</a></td>
+                        </a></td>
             </tr>
             <tr>
                 <td rowspan="2">Calculator</td>
@@ -161,7 +181,7 @@ I'm a frontend web engineer how is in continuous development in frontend and bac
                 <td><a href="https://github.com/MaximSamorukov/data-test/tree/calculator">Github repo</a></td>
             </tr>
             <tr>
-                <td><a href="https://maximsamorukov.github.io/data/calculator/">deploy (Chrome)</a></td>
+                <td><a href="https://maximsamorukov.github.io/data/calculator/">deploy </a></td>
             </tr>
             <tr>
                 <td>Express Rest Service</td>
