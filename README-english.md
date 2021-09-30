@@ -87,18 +87,6 @@ https://maximsamorukov.github.io/RESUME/index.html.
                 <th>Link</th>
             </tr>
             <tr>
-                <td rowspan="2">Website to manage links (commercial project)</td>
-                <td rowspan="2">HTML, CSS, Less, JS.</td>
-                <td><a href="https://github.com/MaximSamorukov/upwork_1">Github repo</a></td>
-            <tr>
-                <td><a href="https://maximsamorukov.github.io/upwork_1/index.html">deploy </a></td>
-            </tr>
-            <tr>
-                <td>Hexlet-1 Brain games</td>
-                <td>Application that includes five math games (cli).</td>
-                <td><a href="https://github.com/MaximSamorukov/frontend-project-lvl1">Github repo</a></td>
-            </tr>
-            <tr>
                 <td rowspan="3">Covid dashbord. Parsing processing and presentation data from api.covid19api.com about covid spreading in the world and in different countries.</td>
                 <td rowspan="3">HTML, CSS, JS.</td>
                 <td><a href="https://github.com/MaximSamorukov/covid">Github repo</a></td>
@@ -156,6 +144,18 @@ https://maximsamorukov.github.io/RESUME/index.html.
             </tr>
             <tr>
                 <td><a href="https://github.com/MaximSamorukov/charts/tree/charts-dev">Github repo</a></td>
+            </tr>
+            <tr>
+                <td rowspan="2">Web page to manage links</td>
+                <td rowspan="2">HTML, CSS, Less, JS.</td>
+                <td><a href="https://github.com/MaximSamorukov/upwork_1">Github repo</a></td>
+            <tr>
+                <td><a href="https://maximsamorukov.github.io/upwork_1/index.html">deploy </a></td>
+            </tr>
+            <tr>
+                <td>Hexlet-1 Brain games</td>
+                <td>Application that includes five math games (cli).</td>
+                <td><a href="https://github.com/MaximSamorukov/frontend-project-lvl1">Github repo</a></td>
             </tr>
             <tr>
                 <td rowspan="2">Interactive panel (test task)</td>

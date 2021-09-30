@@ -95,19 +95,6 @@ https://maximsamorukov.github.io/RESUME/index.html.
                 <th>Описание, ключевые технологии</th>
                 <th>Ссылка</th>
             </tr>
-             <tr>
-                <td rowspan="2">Сайт для управления ссылками (коммерческий проект)</td>
-                <td rowspan="2">HTML, CSS, Less, JS.</td>
-                <td><a href="https://github.com/MaximSamorukov/upwork_1">Github репозиторий</a></td>
-            </tr>
-            <tr>
-                <td><a href="https://maximsamorukov.github.io/upwork_1/index.html">деплой </a></td>
-            </tr>
-            <tr>
-                <td>Хекслет-1 Brain games</td>
-                <td>Приложение командной строки с возможностью выбора и игры в математические игры.</td>
-                <td><a href="https://github.com/MaximSamorukov/frontend-project-lvl1">Github репозиторий</a></td>
-            </tr>
             <tr>
                 <td rowspan="3">Covid dashbord. Обработка и представление данных представляемых api.covid19api.com</td>
                 <td rowspan="3">HTML, CSS, JS.</td>
@@ -165,6 +152,19 @@ https://maximsamorukov.github.io/RESUME/index.html.
                 <td rowspan="2">Charts</td>
                 <td rowspan="2">Работа с api для получения финансовых новостей и котоировок акций. JS, Bootstrap, React, Redux</td>
                 <td><a href="https://goofy-curie-94191e.netlify.app/">деплой </a></td>
+            </tr>
+            <tr>
+                <td rowspan="2">Страница для управления ссылками.</td>
+                <td rowspan="2">HTML, CSS, Less, JS.</td>
+                <td><a href="https://github.com/MaximSamorukov/upwork_1">Github репозиторий</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://maximsamorukov.github.io/upwork_1/index.html">деплой </a></td>
+            </tr>
+            <tr>
+                <td>Хекслет-1 Brain games</td>
+                <td>Приложение командной строки с возможностью выбора и игры в математические игры.</td>
+                <td><a href="https://github.com/MaximSamorukov/frontend-project-lvl1">Github репозиторий</a></td>
             </tr>
             <tr>
                 <td><a href="https://github.com/MaximSamorukov/charts/tree/charts-dev">Github репозиторий</a></td>
