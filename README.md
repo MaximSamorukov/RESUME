@@ -1,11 +1,11 @@
 # Саморуков Максим Львович
-### web developer, веб разработчик
+### frontend web developer, фронтенд веб разработчик
 e-mail: maxim.samorukov@gmail.com,
 cell: 8-925-026-17-37,
 
-https://maximsamorukov.github.io/RESUME/index-en.html,
+https://maximsamorukov.github.io/RESUME/index-vtb-en.html,
 
-https://maximsamorukov.github.io/RESUME/index.html.
+https://maximsamorukov.github.io/RESUME/index-vtb.html.
 
 ### Предыдущий опыт работы и обучения:
 - разработчик интерфейсов, 02.2021 - н.в.

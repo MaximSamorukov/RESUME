@@ -3,9 +3,9 @@
 e-mail: maxim.samorukov@gmail.com,
 cell: 7-925-026-17-37,
 
-https://maximsamorukov.github.io/RESUME/index-en.html,
+https://maximsamorukov.github.io/RESUME/index-vtb-en.html,
 
-https://maximsamorukov.github.io/RESUME/index.html.
+https://maximsamorukov.github.io/RESUME/index-vtb.html.
 
 ### Working Experience and education:
 - Master's degree Moscow State Technical University named after N.E. Bauman, Moscow;
