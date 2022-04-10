@@ -19,6 +19,7 @@ https://maximsamorukov.github.io/RESUME/index.html.
 - HTML, CSS, Less;
 - JavaScript, Node.js;
 - React, Redux;
+- some experience in GraphQL and MongoDB;
 - Figma, Avocode;
 - Git;
 - VSCode, Webpack;
