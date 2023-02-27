@@ -88,7 +88,7 @@ https://maximsamorukov.github.io/RESUME/index.html.
         <th>Ссылка</th>
     </tr>
     <tr>
-      <td rowspan="2">Данное резюме</td>
+      <td rowspan="2">Резюме</td>
       <td rowspan="2">Резюме написано на React.js с использование библиотеки antd, развернуто в Vercel.</td>
       <td><a href="https://github.com/MaximSamorukov/react_resume">Github репозиторий</a></td>
     </tr>
